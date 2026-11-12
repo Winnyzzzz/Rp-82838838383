@@ -1,0 +1,911 @@
+{
+  "property": "sc-domain:hoathinhai.com",
+  "shard": 0,
+  "records": [
+    {
+      "url": "https://hoathinhai.com/phim-tong-hop/nha-tro-balanha",
+      "inspected_at_utc": "2026-11-12T07:16:56.943Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=hMALSdr4axkWgjUcHlXO0w&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-03T15:07:04Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/phim-tong-hop/nha-tro-balanha",
+            "userCanonical": "https://hoathinhai.com/phim-tong-hop/nha-tro-balanha",
+            "referringUrls": [
+              "https://hoathinhai.com/sitemap-tong-hop.xml?page=179"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              },
+              {
+                "richResultType": "Video",
+                "items": [
+                  {
+                    "name": "Nhà Trọ Balanha — Tập 01"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/phim-tong-hop/su-troi-day-cua-ke-chinh-phuc",
+      "inspected_at_utc": "2026-11-12T07:16:56.781Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=b7qJ33rZiiCYediLLw6VeQ&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-03T15:31:07Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/phim-tong-hop/su-troi-day-cua-ke-chinh-phuc",
+            "userCanonical": "https://hoathinhai.com/phim-tong-hop/su-troi-day-cua-ke-chinh-phuc",
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              },
+              {
+                "richResultType": "Video",
+                "items": [
+                  {
+                    "name": "Sự trỗi dậy của kẻ chinh phục — Full"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/phim-tong-hop/trao-em-ca-vu-tru",
+      "inspected_at_utc": "2026-11-12T07:16:56.684Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=JzdIiqIdPdDsBVwFuDUKUQ&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-02T03:05:14Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/phim-tong-hop/trao-em-ca-vu-tru",
+            "userCanonical": "https://hoathinhai.com/phim-tong-hop/trao-em-ca-vu-tru",
+            "referringUrls": [
+              "https://hoathinhai.com/sitemap-tong-hop.xml?page=186"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              },
+              {
+                "richResultType": "Video",
+                "items": [
+                  {
+                    "name": "Trao Em Cả Vũ Trụ — Tập 01"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/blv/2moons-ai-su-2moons-ambassador-2022",
+      "inspected_at_utc": "2026-11-12T07:16:56.604Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=0gCdhQLaKte16mv6aenwog&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-03T20:07:01Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/blv/2moons-ai-su-2moons-ambassador-2022",
+            "userCanonical": "https://hoathinhai.com/blv/2moons-ai-su-2moons-ambassador-2022",
+            "referringUrls": [
+              "https://hoathinhai.bond/sitemap-blv.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  },
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/blv/bruno-va-pol-phan-1-merli-season-1-2015",
+      "inspected_at_utc": "2026-11-12T07:17:04.874Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=dQZIOS8i9hgIudj-MPYrmA&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-03T15:56:19Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/blv/bruno-va-pol-phan-1-merli-season-1-2015",
+            "userCanonical": "https://hoathinhai.com/blv/bruno-va-pol-phan-1-merli-season-1-2015",
+            "referringUrls": [
+              "https://hoathinhai.bond/sitemap-blv.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/blv/cau-nhoc-xui-xeo-chi-con-cach-hon-thoi",
+      "inspected_at_utc": "2026-11-12T07:17:04.934Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=jyNs-_JTq52QFsgdRTf8xQ&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-03T08:10:32Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/blv/cau-nhoc-xui-xeo-chi-con-cach-hon-thoi",
+            "userCanonical": "https://hoathinhai.com/blv/cau-nhoc-xui-xeo-chi-con-cach-hon-thoi",
+            "referringUrls": [
+              "https://hoathinhai.bond/blv/cau-nhoc-xui-xeo-chi-con-cach-hon-thoi",
+              "https://hoathinhai.bond/sitemap-blv.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/blv/chim-am-trong-con-say-love-of-addiction",
+      "inspected_at_utc": "2026-11-12T07:17:04.874Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=fNHyZE-a7b1n5nFH8vo2oQ&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-03T17:55:46Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/blv/chim-am-trong-con-say-love-of-addiction",
+            "userCanonical": "https://hoathinhai.com/blv/chim-am-trong-con-say-love-of-addiction",
+            "referringUrls": [
+              "https://hoathinhai.bond/sitemap-blv.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  },
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/blv/con-say-mua-ong-winter-fever-2026",
+      "inspected_at_utc": "2026-11-12T07:17:06.268Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=PHnx7FAEjhpmkPbnusImLg&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-10-30T19:36:43Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/blv/con-say-mua-ong-winter-fever-2026",
+            "userCanonical": "https://hoathinhai.com/blv/con-say-mua-ong-winter-fever-2026",
+            "referringUrls": [
+              "https://hoathinhai.bond/sitemap-blv.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              },
+              {
+                "richResultType": "Video",
+                "items": [
+                  {
+                    "name": "Cơn Say Mùa Đông - Winter Fever 윈터 피버 (2026) — 01",
+                    "issues": [
+                      {
+                        "issueMessage": "Giá trị ngày giờ của \"uploadDate\" không hợp lệ",
+                        "severity": "WARNING"
+                      },
+                      {
+                        "issueMessage": "Thuộc tính ngày giờ \"uploadDate\" bị thiếu múi giờ",
+                        "severity": "WARNING"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/blv/danh-cap-trai-tim-thua-ke-gia-i-stole-the-false-heirs-heart-2026",
+      "inspected_at_utc": "2026-11-12T07:17:14.121Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=QV2PL2_IUHHPNuevS217iA&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-09T06:08:48Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/blv/danh-cap-trai-tim-thua-ke-gia-i-stole-the-false-heirs-heart-2026",
+            "userCanonical": "https://hoathinhai.com/blv/danh-cap-trai-tim-thua-ke-gia-i-stole-the-false-heirs-heart-2026",
+            "referringUrls": [
+              "https://hoathinhai.bond/sitemap-blv.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  },
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/blv/hoang-hon-cuoi-cung-last-sunset-2026",
+      "inspected_at_utc": "2026-11-12T07:17:14.659Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=ctaxicn0UTJFmHDct2TDyQ&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-09T10:24:30Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/blv/hoang-hon-cuoi-cung-last-sunset-2026",
+            "userCanonical": "https://hoathinhai.com/blv/hoang-hon-cuoi-cung-last-sunset-2026",
+            "referringUrls": [
+              "https://hoathinhai.com/sitemap-blv.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  },
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/blv/ke-hoach-yeu-en-toi-cua-chu-re-wedding",
+      "inspected_at_utc": "2026-11-12T07:17:14.192Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=HHEj1E0CYpsCzzHniDxQSA&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-10-31T01:04:39Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/blv/ke-hoach-yeu-en-toi-cua-chu-re-wedding",
+            "userCanonical": "https://hoathinhai.com/blv/ke-hoach-yeu-en-toi-cua-chu-re-wedding",
+            "referringUrls": [
+              "https://hoathinhai.bond/sitemap-blv.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              },
+              {
+                "richResultType": "Video",
+                "items": [
+                  {
+                    "name": "Kế Hoạch Yêu Đen Tối Của Chú Rể - Wedding Plan (2023) — 01",
+                    "issues": [
+                      {
+                        "issueMessage": "Giá trị ngày giờ của \"uploadDate\" không hợp lệ",
+                        "severity": "WARNING"
+                      },
+                      {
+                        "issueMessage": "Thuộc tính ngày giờ \"uploadDate\" bị thiếu múi giờ",
+                        "severity": "WARNING"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/blv/loi-hen-uoc-linh-hon-promise-of-soul",
+      "inspected_at_utc": "2026-11-12T07:17:14.089Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=XU7M0g4h3pfr5tMGngUSGQ&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-06T10:44:48Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/blv/loi-hen-uoc-linh-hon-promise-of-soul",
+            "userCanonical": "https://hoathinhai.com/blv/loi-hen-uoc-linh-hon-promise-of-soul",
+            "referringUrls": [
+              "https://hoathinhai.bond/sitemap-blv.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  },
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/blv/mat-troi-noi-tinh-cau-xa-vi-tinh-yeu",
+      "inspected_at_utc": "2026-11-12T07:17:22.532Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=9ZTd9OjPCiqTvY4t4PPbkw&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-10-28T12:22:22Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/blv/mat-troi-noi-tinh-cau-xa-vi-tinh-yeu",
+            "userCanonical": "https://hoathinhai.com/blv/mat-troi-noi-tinh-cau-xa-vi-tinh-yeu",
+            "referringUrls": [
+              "https://hoathinhai.bond/sitemap-blv.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/blv/nguoi-tinh-cua-toi-la-ai-minh-tinh-my",
+      "inspected_at_utc": "2026-11-12T07:17:22.611Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=kqwh17qCUdXqWw6G8M1xhA&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-01T03:03:49Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/blv/nguoi-tinh-cua-toi-la-ai-minh-tinh-my",
+            "userCanonical": "https://hoathinhai.com/blv/nguoi-tinh-cua-toi-la-ai-minh-tinh-my",
+            "referringUrls": [
+              "https://hoathinhai.com/sitemap-blv.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              },
+              {
+                "richResultType": "Video",
+                "items": [
+                  {
+                    "name": "Người Tình Của Tôi Là Đại Minh Tinh - My Superstar My Love แผนรักร้ายของนายซุปตาร์ (2025) — 01-SS"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/blv/ong-cam-cong-tu-dead-friend-forever-dff",
+      "inspected_at_utc": "2026-11-12T07:17:22.536Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=iJKYk0VQpwAtqVXfFINWfw&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-01T19:38:37Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/blv/ong-cam-cong-tu-dead-friend-forever-dff",
+            "userCanonical": "https://hoathinhai.com/blv/ong-cam-cong-tu-dead-friend-forever-dff",
+            "referringUrls": [
+              "https://hoathinhai.bond/sitemap-blv.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              },
+              {
+                "richResultType": "Video",
+                "items": [
+                  {
+                    "name": "Đồng Cam Cộng Tử - Dead Friend Forever DFF (2023) — 01"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/blv/quang-uyen-oc-tham-vuc-sau-justice-in",
+      "inspected_at_utc": "2026-11-12T07:17:22.559Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=n7Zip9NkIpdqLzDDD1KgqA&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-03T17:50:06Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/blv/quang-uyen-oc-tham-vuc-sau-justice-in",
+            "userCanonical": "https://hoathinhai.com/blv/quang-uyen-oc-tham-vuc-sau-justice-in",
+            "referringUrls": [
+              "https://hoathinhai.bond/sitemap-blv.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  },
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/blv/song-trinh-round-trip-to-love-2016",
+      "inspected_at_utc": "2026-11-12T07:17:30.655Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=S4PwyXuiXeIxbq2_-a1_tw&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-03T15:56:36Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/blv/song-trinh-round-trip-to-love-2016",
+            "userCanonical": "https://hoathinhai.com/blv/song-trinh-round-trip-to-love-2016",
+            "referringUrls": [
+              "https://hoathinhai.bond/sitemap-blv.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              },
+              {
+                "richResultType": "Video",
+                "items": [
+                  {
+                    "name": "Song Trình - A Round Trip To Love (2016) — Tập 1"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/blv/to-quang-sculpted-light-2025",
+      "inspected_at_utc": "2026-11-12T07:17:31.019Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=Nh0LXIwNV5F-S6AzbXmZdw&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-10-31T02:59:28Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/blv/to-quang-sculpted-light-2025",
+            "userCanonical": "https://hoathinhai.com/blv/to-quang-sculpted-light-2025",
+            "referringUrls": [
+              "https://hoathinhai.bond/sitemap-blv.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              },
+              {
+                "richResultType": "Video",
+                "items": [
+                  {
+                    "name": "Tố Quang - Sculpted Light 塑光 (2025) — 01",
+                    "issues": [
+                      {
+                        "issueMessage": "Giá trị ngày giờ của \"uploadDate\" không hợp lệ",
+                        "severity": "WARNING"
+                      },
+                      {
+                        "issueMessage": "Thuộc tính ngày giờ \"uploadDate\" bị thiếu múi giờ",
+                        "severity": "WARNING"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/blv/trao-em-nhip-ap-trai-tim-listen-to-my",
+      "inspected_at_utc": "2026-11-12T07:17:30.435Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=21zgqm_cFAfD-FX_9jr9VQ&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-03T15:45:00Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/blv/trao-em-nhip-ap-trai-tim-listen-to-my",
+            "userCanonical": "https://hoathinhai.com/blv/trao-em-nhip-ap-trai-tim-listen-to-my",
+            "referringUrls": [
+              "https://hoathinhai.bond/blv/trao-em-nhip-ap-trai-tim-listen-to-my",
+              "https://hoathinhai.bond/sitemap-blv.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  },
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/blv/viola-trong-trai-tim-anh-viola-who-was",
+      "inspected_at_utc": "2026-11-12T07:17:30.519Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=UJDPEA3zFcghkQRajlvbhQ&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-06T07:55:41Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/blv/viola-trong-trai-tim-anh-viola-who-was",
+            "userCanonical": "https://hoathinhai.com/blv/viola-trong-trai-tim-anh-viola-who-was",
+            "referringUrls": [
+              "https://hoathinhai.bond/sitemap-blv.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  },
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

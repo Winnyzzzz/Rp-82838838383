@@ -1,0 +1,853 @@
+{
+  "property": "sc-domain:hoathinhai.com",
+  "shard": 0,
+  "records": [
+    {
+      "url": "https://hoathinhai.com/blv/yeu-mot-ke-ngoc-fool-in-love-2026",
+      "inspected_at_utc": "2026-11-12T07:17:40.562Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=K2VvLgXbRD5fisYBrSu-fQ&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-03T18:20:34Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/blv/yeu-mot-ke-ngoc-fool-in-love-2026",
+            "userCanonical": "https://hoathinhai.com/blv/yeu-mot-ke-ngoc-fool-in-love-2026",
+            "referringUrls": [
+              "https://hoathinhai.bond/sitemap-blv.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              },
+              {
+                "richResultType": "Video",
+                "items": [
+                  {
+                    "name": "Yêu Một Kẻ Ngốc - Fool in Love คนโง่รักเข(ล)า (2026) — Tập 1"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/ntt/ntt-series-sieu-cap-dien-trang",
+      "inspected_at_utc": "2026-11-12T07:17:40.630Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=CnR0wSVYhsyozwDipLLczw&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-03T14:00:45Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/ntt/ntt-series-sieu-cap-dien-trang",
+            "userCanonical": "https://hoathinhai.com/ntt/ntt-series-sieu-cap-dien-trang",
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              },
+              {
+                "richResultType": "Video",
+                "items": [
+                  {
+                    "name": "SIÊU CẤP ĐIỀN TRANG"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/phim-tong-hop/ben-trong-vu-be-boi-trustor-trustorharvan",
+      "inspected_at_utc": "2026-11-12T07:17:40.687Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=TcY98MV4WvxTR_IyDpa6Cw&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-03T19:16:25Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/phim-tong-hop/ben-trong-vu-be-boi-trustor-trustorharvan",
+            "userCanonical": "https://hoathinhai.com/phim-tong-hop/ben-trong-vu-be-boi-trustor-trustorharvan",
+            "referringUrls": [
+              "https://hoathinhai.com/sitemap-tong-hop.xml?page=59"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/phim-tong-hop/cuong-phong-bong-toi-phan-1",
+      "inspected_at_utc": "2026-11-12T07:17:40.672Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=pIXgovaWk8jSnRCttateZw&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-02T02:14:56Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/phim-tong-hop/cuong-phong-bong-toi-phan-1",
+            "userCanonical": "https://hoathinhai.com/phim-tong-hop/cuong-phong-bong-toi-phan-1",
+            "referringUrls": [
+              "https://hoathinhai.com/sitemap-tong-hop.xml?page=187"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              },
+              {
+                "richResultType": "Video",
+                "items": [
+                  {
+                    "name": "Cuồng Phong Bóng Tối (Phần 1) — Tập 01"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/phim-tong-hop/giau-nut-vach-ngheo-mat-rep",
+      "inspected_at_utc": "2026-11-12T07:17:48.975Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=hTYni01Uzcp6Jw5ZGLXCig&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-03T13:25:44Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/phim-tong-hop/giau-nut-vach-ngheo-mat-rep",
+            "userCanonical": "https://hoathinhai.com/phim-tong-hop/giau-nut-vach-ngheo-mat-rep",
+            "referringUrls": [
+              "https://hoathinhai.com/sitemap-tong-hop.xml?page=20"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/phim-tong-hop/hay-goi-quan-ly-cua-toi-phim-dien-anh",
+      "inspected_at_utc": "2026-11-12T07:17:48.590Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=PuSindTJH4JOu54jgHDUyw&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-03T18:58:53Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/phim-tong-hop/hay-goi-quan-ly-cua-toi-phim-dien-anh",
+            "userCanonical": "https://hoathinhai.com/phim-tong-hop/hay-goi-quan-ly-cua-toi-phim-dien-anh",
+            "referringUrls": [
+              "https://hoathinhai.com/sitemap-tong-hop.xml?page=35"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              },
+              {
+                "richResultType": "Video",
+                "items": [
+                  {
+                    "name": "Hãy Gọi Quản Lý Của Tôi! - Phim Điện Ảnh — Full"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/phim-tong-hop/hoc-vien-cao-vo-dong-dai",
+      "inspected_at_utc": "2026-11-12T07:17:49.021Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=_7kT8pZhp0vI2rR4MZJjMg&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-03T16:49:57Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/phim-tong-hop/hoc-vien-cao-vo-dong-dai",
+            "userCanonical": "https://hoathinhai.com/phim-tong-hop/hoc-vien-cao-vo-dong-dai",
+            "referringUrls": [
+              "https://hoathinhai.com/sitemap-tong-hop.xml?page=5"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              },
+              {
+                "richResultType": "Video",
+                "items": [
+                  {
+                    "name": "Học Viện Cao Võ Đông Đại — Tập 01"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/phim-tong-hop/lang-nghe-thanh-am",
+      "inspected_at_utc": "2026-11-12T07:17:48.912Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=PUWwcbDKrV0qpqN0IbzHUw&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-03T16:55:30Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/phim-tong-hop/lang-nghe-thanh-am",
+            "userCanonical": "https://hoathinhai.com/phim-tong-hop/lang-nghe-thanh-am",
+            "referringUrls": [
+              "https://hoathinhai.com/phim-tong-hop/lang-nghe-thanh-am?f=kk"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              },
+              {
+                "richResultType": "Video",
+                "items": [
+                  {
+                    "name": "Lắng Nghe Thanh Âm — Tập 01"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/phim-tong-hop/nghi-luc-song",
+      "inspected_at_utc": "2026-11-12T07:17:57.510Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=Wm_FL_sg3as4x6kAum2lzw&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-03T16:47:18Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/phim-tong-hop/nghi-luc-song",
+            "userCanonical": "https://hoathinhai.com/phim-tong-hop/nghi-luc-song",
+            "referringUrls": [
+              "https://hoathinhai.com/sitemap-tong-hop.xml?page=4"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              },
+              {
+                "richResultType": "Video",
+                "items": [
+                  {
+                    "name": "Nghị Lực Sống — Full"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/phim-tong-hop/nha-tu-shawshank",
+      "inspected_at_utc": "2026-11-12T07:17:56.863Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=suG4BD1IYkoIym2ZVBfAKw&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-03T14:38:52Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/phim-tong-hop/nha-tu-shawshank",
+            "userCanonical": "https://hoathinhai.com/phim-tong-hop/nha-tu-shawshank",
+            "referringUrls": [
+              "https://hoathinhai.com/sitemap-tong-hop.xml?page=167"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              },
+              {
+                "richResultType": "Video",
+                "items": [
+                  {
+                    "name": "Nhà Tù Shawshank — Full"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/phim-tong-hop/ragnarok-hoang-hon-cua-chu-than-phan-2",
+      "inspected_at_utc": "2026-11-12T07:17:57.029Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=a89iVkzZls-TFaWPIbQHgA&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-03T15:12:42Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/phim-tong-hop/ragnarok-hoang-hon-cua-chu-than-phan-2",
+            "userCanonical": "https://hoathinhai.com/phim-tong-hop/ragnarok-hoang-hon-cua-chu-than-phan-2",
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/phim-tong-hop/thai-co-than-ton",
+      "inspected_at_utc": "2026-11-12T07:17:57.132Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=zA8TvrLm2b6hl9MUsWNGKg&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-03T13:29:50Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/phim-tong-hop/thai-co-than-ton",
+            "userCanonical": "https://hoathinhai.com/phim-tong-hop/thai-co-than-ton",
+            "referringUrls": [
+              "https://hoathinhai.com/sitemap-tong-hop.xml?page=5"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/phim-tong-hop/thien-huong",
+      "inspected_at_utc": "2026-11-12T07:18:05.395Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=HZ8xskFNtxQvxisnbrxelw&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-03T11:31:25Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/phim-tong-hop/thien-huong",
+            "userCanonical": "https://hoathinhai.com/phim-tong-hop/thien-huong",
+            "referringUrls": [
+              "https://hoathinhai.com/sitemap-tong-hop.xml?page=63"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/phim-tong-hop/ung-cuu-loi-dinh",
+      "inspected_at_utc": "2026-11-12T07:18:05.474Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=hzFWBZdMXQnToUN-5ybm9A&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-03T08:07:56Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/phim-tong-hop/ung-cuu-loi-dinh",
+            "userCanonical": "https://hoathinhai.com/phim-tong-hop/ung-cuu-loi-dinh",
+            "referringUrls": [
+              "https://hoathinhai.com/sitemap-tong-hop.xml?page=138"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/phim-tong-hop/vu-be-boi-thoi-joseon-be-boi-trieu-dai",
+      "inspected_at_utc": "2026-11-12T07:18:05.281Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=RC8NpLw3mWKc7WEZOthBrw&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-03T13:25:21Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/phim-tong-hop/vu-be-boi-thoi-joseon-be-boi-trieu-dai",
+            "userCanonical": "https://hoathinhai.com/phim-tong-hop/vu-be-boi-thoi-joseon-be-boi-trieu-dai",
+            "sitemap": [
+              "https://hoathinhai.com/sitemap-tong-hop.xml"
+            ],
+            "referringUrls": [
+              "https://hoathinhai.com/sitemap-tong-hop.xml?page=30"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/phim/xuyen-thanh-trang-nguyen-tim-chet-38nyqz",
+      "inspected_at_utc": "2026-11-12T07:18:05.446Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=Le87BUodcrZQGOYXctgnrg&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-06T09:47:18Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/phim/xuyen-thanh-trang-nguyen-tim-chet-38nyqz",
+            "userCanonical": "https://hoathinhai.com/phim/xuyen-thanh-trang-nguyen-tim-chet-38nyqz",
+            "referringUrls": [
+              "https://hoathinhai.com/the-loai/va-mat"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              },
+              {
+                "richResultType": "Video",
+                "items": [
+                  {
+                    "name": "XUYÊN THÀNH TRẠNG NGUYÊN TÌM CHẾT — Tập 1"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/blv/ai-long-big-dragon-2022",
+      "inspected_at_utc": "2026-11-12T07:18:13.660Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=A73d4ryZEF3BihAb2JJe0g&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "NEUTRAL",
+            "coverageState": "Đã thu thập dữ liệu – hiện chưa được lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-09T18:26:57Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/blv/ai-long-big-dragon-2022",
+            "userCanonical": "https://hoathinhai.com/blv/ai-long-big-dragon-2022",
+            "referringUrls": [
+              "https://hoathinhai.bond/sitemap-blv.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/blv/anh-chong-iep-vu-mat-cua-toi-2-my",
+      "inspected_at_utc": "2026-11-12T07:18:13.590Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=jj5YJkk7CcBCx6FDH6H7_g&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-09T01:41:09Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/blv/anh-chong-iep-vu-mat-cua-toi-2-my",
+            "userCanonical": "https://hoathinhai.com/blv/anh-chong-iep-vu-mat-cua-toi-2-my",
+            "referringUrls": [
+              "https://hoathinhai.bond/blv/anh-chong-iep-vu-mat-cua-toi-2-my",
+              "https://hoathinhai.bond/sitemap-blv.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  },
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/blv/bao-mau-cam-cua-ong-trum-mafia-the-mutes-mafia-boss-2026",
+      "inspected_at_utc": "2026-11-12T07:18:13.577Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=BAvZKoTFePkZPEB05LWqlw&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-03T17:57:21Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/blv/bao-mau-cam-cua-ong-trum-mafia-the-mutes-mafia-boss-2026",
+            "userCanonical": "https://hoathinhai.com/blv/bao-mau-cam-cua-ong-trum-mafia-the-mutes-mafia-boss-2026",
+            "referringUrls": [
+              "https://hoathinhai.bond/sitemap-blv.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  },
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/blv/bite-me-send-hot-served-love-2021",
+      "inspected_at_utc": "2026-11-12T07:18:13.533Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=DmS5a8uyLhGtr7W3OdWhNw&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-03T18:42:56Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/blv/bite-me-send-hot-served-love-2021",
+            "userCanonical": "https://hoathinhai.com/blv/bite-me-send-hot-served-love-2021",
+            "referringUrls": [
+              "https://hoathinhai.bond/blv/bite-me-send-hot-served-love-2021",
+              "https://hoathinhai.bond/sitemap-blv.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  },
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

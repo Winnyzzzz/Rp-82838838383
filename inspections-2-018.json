@@ -1,0 +1,492 @@
+[
+  {
+    "url": "https://hoathinhai.com/blv/nu-hon-sau-cuoc-dieu-tra",
+    "inspected_at_utc": "2026-11-12T07:23:07.497Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=49z1gE-vrQIplAUG9YBZhg&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "PASS",
+          "coverageState": "Đã được gửi và lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-11T22:57:51Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/blv/nu-hon-sau-cuoc-dieu-tra",
+          "userCanonical": "https://hoathinhai.com/blv/nu-hon-sau-cuoc-dieu-tra",
+          "referringUrls": [
+            "https://hoathinhai.com/blv/nu-hon-sau-cuoc-dieu-tra-duty-first-kiss-later-2026"
+          ],
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        },
+        "richResultsResult": {
+          "verdict": "PASS",
+          "detectedItems": [
+            {
+              "richResultType": "Đường dẫn",
+              "items": [
+                {
+                  "name": "Mục chưa có tên"
+                }
+              ]
+            },
+            {
+              "richResultType": "Video",
+              "items": [
+                {
+                  "name": "9Nụ Hôn Sau Cuộc Điều Tra - Duty First, Kiss Later キスは捜査のあとで (2026) — 01"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/blv/hoan-toan-khuat-phuc",
+    "inspected_at_utc": "2026-11-12T07:23:07.349Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=uyOzP1ir1Bv1_mVELPB_Vg&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "NEUTRAL",
+          "coverageState": "Google không xác định được URL",
+          "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+          "indexingState": "INDEXING_STATE_UNSPECIFIED",
+          "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/blv/yeu-di-dung-ngai",
+    "inspected_at_utc": "2026-11-12T07:23:07.342Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=5ExcX7WPFp1Lq0YEUWvRgA&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "NEUTRAL",
+          "coverageState": "Đã phát hiện thấy – hiện chưa được lập chỉ mục",
+          "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+          "indexingState": "INDEXING_STATE_UNSPECIFIED",
+          "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+          "sitemap": [
+            "https://hoathinhai.com/sitemap-blv.xml",
+            "https://hoathinhai.com/sitemap.xml"
+          ],
+          "referringUrls": [
+            "https://hoathinhai.com/sitemap-blv.xml"
+          ],
+          "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/blv/bon-ban-tay-hai-ban-sonata",
+    "inspected_at_utc": "2026-11-12T07:23:07.466Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=nvoIfQIZIwjp3HL5WeEDRg&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "NEUTRAL",
+          "coverageState": "Đã phát hiện thấy – hiện chưa được lập chỉ mục",
+          "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+          "indexingState": "INDEXING_STATE_UNSPECIFIED",
+          "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+          "sitemap": [
+            "https://hoathinhai.com/sitemap-blv.xml",
+            "https://hoathinhai.com/sitemap.xml"
+          ],
+          "referringUrls": [
+            "https://hoathinhai.com/sitemap-blv.xml"
+          ],
+          "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/blv/muon-ngan-troi-may-nhat-ban",
+    "inspected_at_utc": "2026-11-12T07:23:07.494Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=RoV6EaO70xx22OsqA9xmOg&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "NEUTRAL",
+          "coverageState": "Google không xác định được URL",
+          "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+          "indexingState": "INDEXING_STATE_UNSPECIFIED",
+          "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/blv/du-bat-anh-ve-si-luc-luong",
+    "inspected_at_utc": "2026-11-12T07:23:07.460Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=GDnNA_Zu5QMrr3LYZ3krqw&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "NEUTRAL",
+          "coverageState": "Google không xác định được URL",
+          "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+          "indexingState": "INDEXING_STATE_UNSPECIFIED",
+          "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/blv/hai-ong-bo-dac-vu-cua-toi",
+    "inspected_at_utc": "2026-11-12T07:23:07.455Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=DcIOzlLDjbIeIgiGXRZ9gw&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "NEUTRAL",
+          "coverageState": "Google không xác định được URL",
+          "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+          "indexingState": "INDEXING_STATE_UNSPECIFIED",
+          "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/blv/chu-tich-dem-nay-kho-thoat",
+    "inspected_at_utc": "2026-11-12T07:23:07.605Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=uQqO8Z1cjYLJSWW3BqcqmQ&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "NEUTRAL",
+          "coverageState": "Đã thu thập dữ liệu – hiện chưa được lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-12T02:57:47Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/blv/chu-tich-dem-nay-kho-thoat",
+          "userCanonical": "https://hoathinhai.com/blv/chu-tich-dem-nay-kho-thoat",
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/blv/khong-the-thuan-hoa-bao-quan-ta-tro-thanh-bao-boi-cua-han",
+    "inspected_at_utc": "2026-11-12T07:23:18.992Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=64282K_GX5xHdQRx5BDdsQ&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "NEUTRAL",
+          "coverageState": "Google không xác định được URL",
+          "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+          "indexingState": "INDEXING_STATE_UNSPECIFIED",
+          "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/blv/tan-thuoc",
+    "inspected_at_utc": "2026-11-12T07:23:12.238Z",
+    "response": {
+      "error_code": "INVALID_ARGUMENT"
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/blv/cu-giao-bong-tinh-yeu",
+    "inspected_at_utc": "2026-11-12T07:23:19.237Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=yfkVhCcFABFoK0d49QmIzg&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "NEUTRAL",
+          "coverageState": "Google không xác định được URL",
+          "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+          "indexingState": "INDEXING_STATE_UNSPECIFIED",
+          "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/blv/bi-mat-cua-thu-dong",
+    "inspected_at_utc": "2026-11-12T07:23:18.987Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=aJJ9nyHL9VsQyTaviFrd8g&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "NEUTRAL",
+          "coverageState": "Google không xác định được URL",
+          "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+          "indexingState": "INDEXING_STATE_UNSPECIFIED",
+          "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/blv/tu-nhan-cua-lao-dai",
+    "inspected_at_utc": "2026-11-12T07:23:12.302Z",
+    "response": {
+      "error_code": "INVALID_ARGUMENT"
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/blv/cong-tuoc-va-hiep-si-soi-cua-anh",
+    "inspected_at_utc": "2026-11-12T07:23:12.211Z",
+    "response": {
+      "error_code": "INVALID_ARGUMENT"
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/blv/gia-gai-bao-thu-tinh-dich",
+    "inspected_at_utc": "2026-11-12T07:23:19.237Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=Z3ju4bCyDzZKHLApdB-zKg&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "NEUTRAL",
+          "coverageState": "Google không xác định được URL",
+          "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+          "indexingState": "INDEXING_STATE_UNSPECIFIED",
+          "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/blv/omega-thay-the-cua-alpha",
+    "inspected_at_utc": "2026-11-12T07:23:19.232Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=JAB043PYFB0z67I1_wdbPg&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "NEUTRAL",
+          "coverageState": "Google không xác định được URL",
+          "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+          "indexingState": "INDEXING_STATE_UNSPECIFIED",
+          "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/blv/hop-dong-voi-chu-thoi-trang",
+    "inspected_at_utc": "2026-11-12T07:23:27.430Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=f_2JvSJejsBOZ161hgqttQ&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "NEUTRAL",
+          "coverageState": "Google không xác định được URL",
+          "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+          "indexingState": "INDEXING_STATE_UNSPECIFIED",
+          "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/blv/trai-thang-va-chong-tong-tai",
+    "inspected_at_utc": "2026-11-12T07:23:27.236Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=4dCcZYIYsk066RqWfVqFfg&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "NEUTRAL",
+          "coverageState": "Google không xác định được URL",
+          "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+          "indexingState": "INDEXING_STATE_UNSPECIFIED",
+          "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/blv/dau-an-doc-quyen-cua-vua-soi",
+    "inspected_at_utc": "2026-11-12T07:23:26.993Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=DaglCuMcdULwpals-iDe3w&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "NEUTRAL",
+          "coverageState": "Google không xác định được URL",
+          "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+          "indexingState": "INDEXING_STATE_UNSPECIFIED",
+          "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/blv/chi-danh-cho-fan",
+    "inspected_at_utc": "2026-11-12T07:23:27.193Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=R4gYrEwSFs_rnZxs_ZSOJw&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "NEUTRAL",
+          "coverageState": "Google không xác định được URL",
+          "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+          "indexingState": "INDEXING_STATE_UNSPECIFIED",
+          "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/blv/bi-xich-cung-ke-thu",
+    "inspected_at_utc": "2026-11-12T07:23:27.134Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=WUeGPjrx8teU7T8tN-NJmA&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "PASS",
+          "coverageState": "Đã được gửi và lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-11T19:11:23Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/blv/bi-xich-cung-ke-thu",
+          "userCanonical": "https://hoathinhai.com/blv/bi-xich-cung-ke-thu",
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        },
+        "richResultsResult": {
+          "verdict": "PASS",
+          "detectedItems": [
+            {
+              "richResultType": "Đường dẫn",
+              "items": [
+                {
+                  "name": "Mục chưa có tên"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/blv/tinh-yeu-vuot-qua-chien-tranh",
+    "inspected_at_utc": "2026-11-12T07:23:27.360Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=kXyzJdeevKZ7MuCKuEOXrA&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "NEUTRAL",
+          "coverageState": "Google không xác định được URL",
+          "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+          "indexingState": "INDEXING_STATE_UNSPECIFIED",
+          "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/blv/tien-boi-day-em-yeu-di",
+    "inspected_at_utc": "2026-11-12T07:23:27.237Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=_SL2aSmcKzWx5YOkbNWugA&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "NEUTRAL",
+          "coverageState": "Đã phát hiện thấy – hiện chưa được lập chỉ mục",
+          "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+          "indexingState": "INDEXING_STATE_UNSPECIFIED",
+          "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+          "sitemap": [
+            "https://hoathinhai.com/sitemap-blv.xml",
+            "https://hoathinhai.com/sitemap.xml"
+          ],
+          "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/blv/ong-trum-ep-toi-cuoi",
+    "inspected_at_utc": "2026-11-12T07:23:27.135Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=Uln0bwAg5MzOznLTlcE2nQ&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "NEUTRAL",
+          "coverageState": "Google không xác định được URL",
+          "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+          "indexingState": "INDEXING_STATE_UNSPECIFIED",
+          "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        }
+      }
+    }
+  }
+]

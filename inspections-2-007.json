@@ -1,0 +1,841 @@
+[
+  {
+    "url": "https://hoathinhai.com/phim-tong-hop/sat-thu-xe-lan",
+    "inspected_at_utc": "2026-11-12T07:16:46.988Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=grnpTquu93cfvlKM50VzrA&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "NEUTRAL",
+          "coverageState": "Đã thu thập dữ liệu – hiện chưa được lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-03T16:09:40Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/phim-tong-hop/sat-thu-xe-lan",
+          "userCanonical": "https://hoathinhai.com/phim-tong-hop/sat-thu-xe-lan",
+          "referringUrls": [
+            "https://hoathinhai.com/sitemap-tong-hop.xml?page=9"
+          ],
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/phim-tong-hop/thuy-trieu-len-knokke-off-phan-3",
+    "inspected_at_utc": "2026-11-12T07:16:47.016Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=SvCQv1_LP8mKiJ-_T2YsKA&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "PASS",
+          "coverageState": "Đã được gửi và lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-06T08:07:35Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/phim-tong-hop/thuy-trieu-len-knokke-off-phan-3",
+          "userCanonical": "https://hoathinhai.com/phim-tong-hop/thuy-trieu-len-knokke-off-phan-3",
+          "referringUrls": [
+            "https://hoathinhai.com/sitemap-tong-hop.xml?page=164"
+          ],
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        },
+        "richResultsResult": {
+          "verdict": "PASS",
+          "detectedItems": [
+            {
+              "richResultType": "Đường dẫn",
+              "items": [
+                {
+                  "name": "Mục chưa có tên"
+                }
+              ]
+            },
+            {
+              "richResultType": "Video",
+              "items": [
+                {
+                  "name": "Thủy Triều Lên (Knokke Off) (Phần 3) — Tập 01"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/phim-tong-hop/vung-tu-dia",
+    "inspected_at_utc": "2026-11-12T07:16:47.162Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=QV_Ner12zBchlieAOkcdDw&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "PASS",
+          "coverageState": "Đã được gửi và lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-03T16:13:25Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/phim-tong-hop/vung-tu-dia",
+          "userCanonical": "https://hoathinhai.com/phim-tong-hop/vung-tu-dia",
+          "referringUrls": [
+            "https://hoathinhai.com/sitemap-tong-hop.xml?page=15"
+          ],
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        },
+        "richResultsResult": {
+          "verdict": "PASS",
+          "detectedItems": [
+            {
+              "richResultType": "Đường dẫn",
+              "items": [
+                {
+                  "name": "Mục chưa có tên"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/blv/around-14-cp-naoki-shun-2023",
+    "inspected_at_utc": "2026-11-12T07:16:46.945Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=yCmxVoUnCh52PAmTgIudPw&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "PASS",
+          "coverageState": "Đã được gửi và lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-03T15:40:46Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/blv/around-14-cp-naoki-shun-2023",
+          "userCanonical": "https://hoathinhai.com/blv/around-14-cp-naoki-shun-2023",
+          "referringUrls": [
+            "https://hoathinhai.bond/blv/around-14-cp-naoki-shun-2023",
+            "https://hoathinhai.bond/sitemap-blv.xml"
+          ],
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        },
+        "richResultsResult": {
+          "verdict": "PASS",
+          "detectedItems": [
+            {
+              "richResultType": "Đường dẫn",
+              "items": [
+                {
+                  "name": "Mục chưa có tên"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/blv/ca-gioi-chi-co-anh-ket-noi-duoc-voi-toi-connecting-to-you-2026",
+    "inspected_at_utc": "2026-11-12T07:16:55.138Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=Uh3pHanWe0AibRJfmMn7xw&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "NEUTRAL",
+          "coverageState": "Bị loại trừ bởi thẻ 'noindex'",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "BLOCKED_BY_META_TAG",
+          "lastCrawlTime": "2026-11-11T16:10:43Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/blv/ca-gioi-chi-co-anh-ket-noi-duoc-voi-toi-connecting-to-you-2026",
+          "referringUrls": [
+            "https://hoathinhai.bond/sitemap-blv.xml"
+          ],
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/blv/chang-ky-su-cua-toi-my-engineer-2020",
+    "inspected_at_utc": "2026-11-12T07:16:55.191Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=SsRPS8i4_9Flx5at6h87EQ&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "PASS",
+          "coverageState": "Đã được gửi và lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-03T15:57:11Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/blv/chang-ky-su-cua-toi-my-engineer-2020",
+          "userCanonical": "https://hoathinhai.com/blv/chang-ky-su-cua-toi-my-engineer-2020",
+          "referringUrls": [
+            "https://hoathinhai.bond/sitemap-blv.xml"
+          ],
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        },
+        "richResultsResult": {
+          "verdict": "PASS",
+          "detectedItems": [
+            {
+              "richResultType": "Đường dẫn",
+              "items": [
+                {
+                  "name": "Mục chưa có tên"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/blv/chuyen-tinh-au-first-love-story-2021",
+    "inspected_at_utc": "2026-11-12T07:16:55.286Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=QzzXyQAa8hakF-RjLWGscg&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "PASS",
+          "coverageState": "Đã được gửi và lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-10-31T03:04:18Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/blv/chuyen-tinh-au-first-love-story-2021",
+          "userCanonical": "https://hoathinhai.com/blv/chuyen-tinh-au-first-love-story-2021",
+          "referringUrls": [
+            "https://hoathinhai.bond/sitemap-blv.xml"
+          ],
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        },
+        "richResultsResult": {
+          "verdict": "PASS",
+          "detectedItems": [
+            {
+              "richResultType": "Đường dẫn",
+              "items": [
+                {
+                  "name": "Mục chưa có tên"
+                }
+              ]
+            },
+            {
+              "richResultType": "Video",
+              "items": [
+                {
+                  "name": "Chuyện Tình Đầu - A First Love Story (2021) — 01-DL",
+                  "issues": [
+                    {
+                      "issueMessage": "Giá trị ngày giờ của \"uploadDate\" không hợp lệ",
+                      "severity": "WARNING"
+                    },
+                    {
+                      "issueMessage": "Thuộc tính ngày giờ \"uploadDate\" bị thiếu múi giờ",
+                      "severity": "WARNING"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/blv/cuoc-phan-cong-cua-thay-boi-my-secret",
+    "inspected_at_utc": "2026-11-12T07:16:55.052Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=SFleBQMcI-4XTIuy7OXdBQ&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "PASS",
+          "coverageState": "Đã được gửi và lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-06T06:13:43Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/blv/cuoc-phan-cong-cua-thay-boi-my-secret",
+          "userCanonical": "https://hoathinhai.com/blv/cuoc-phan-cong-cua-thay-boi-my-secret",
+          "referringUrls": [
+            "https://hoathinhai.com/sitemap-blv.xml"
+          ],
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        },
+        "richResultsResult": {
+          "verdict": "PASS",
+          "detectedItems": [
+            {
+              "richResultType": "Đường dẫn",
+              "items": [
+                {
+                  "name": "Mục chưa có tên"
+                },
+                {
+                  "name": "Mục chưa có tên"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/blv/hai-am-cuoi-va-mot-am-tang-two-weddings",
+    "inspected_at_utc": "2026-11-12T07:17:03.218Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=Udt1NHhlGP_rlyph9ECURQ&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "PASS",
+          "coverageState": "Đã được gửi và lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-03T09:46:46Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/blv/hai-am-cuoi-va-mot-am-tang-two-weddings",
+          "userCanonical": "https://hoathinhai.com/blv/hai-am-cuoi-va-mot-am-tang-two-weddings",
+          "referringUrls": [
+            "https://hoathinhai.bond/sitemap-blv.xml"
+          ],
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        },
+        "richResultsResult": {
+          "verdict": "PASS",
+          "detectedItems": [
+            {
+              "richResultType": "Đường dẫn",
+              "items": [
+                {
+                  "name": "Mục chưa có tên"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/blv/hong-bao-red-envelope-2024",
+    "inspected_at_utc": "2026-11-12T07:17:03.058Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=vb3s0xGO_FykvemcwAiYFA&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "PASS",
+          "coverageState": "Đã được gửi và lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-10-30T18:09:38Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/blv/hong-bao-red-envelope-2024",
+          "userCanonical": "https://hoathinhai.com/blv/hong-bao-red-envelope-2024",
+          "referringUrls": [
+            "https://hoathinhai.com/sitemap-blv.xml"
+          ],
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        },
+        "richResultsResult": {
+          "verdict": "PASS",
+          "detectedItems": [
+            {
+              "richResultType": "Đường dẫn",
+              "items": [
+                {
+                  "name": "Mục chưa có tên"
+                }
+              ]
+            },
+            {
+              "richResultType": "Video",
+              "items": [
+                {
+                  "name": "Hồng Bao - Red Envelope 紅包 (2024) — Full",
+                  "issues": [
+                    {
+                      "issueMessage": "Giá trị ngày giờ của \"uploadDate\" không hợp lệ",
+                      "severity": "WARNING"
+                    },
+                    {
+                      "issueMessage": "Thuộc tính ngày giờ \"uploadDate\" bị thiếu múi giờ",
+                      "severity": "WARNING"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/blv/khoa-chat-tinh-yeu-trong-vuc-tham-chained-wings-2026",
+    "inspected_at_utc": "2026-11-12T07:17:03.075Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=lYWMqN582MDEliZc6kONpQ&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "PASS",
+          "coverageState": "Đã được gửi và lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-05T20:21:57Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/blv/khoa-chat-tinh-yeu-trong-vuc-tham-chained-wings-2026",
+          "userCanonical": "https://hoathinhai.com/blv/khoa-chat-tinh-yeu-trong-vuc-tham-chained-wings-2026",
+          "referringUrls": [
+            "https://hoathinhai.bond/sitemap-blv.xml"
+          ],
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        },
+        "richResultsResult": {
+          "verdict": "PASS",
+          "detectedItems": [
+            {
+              "richResultType": "Đường dẫn",
+              "items": [
+                {
+                  "name": "Mục chưa có tên"
+                },
+                {
+                  "name": "Mục chưa có tên"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/blv/mai-canh-ben-close-to-you-2025",
+    "inspected_at_utc": "2026-11-12T07:17:03.125Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=CbsClp4fy_JJnyZwVuWfXg&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "PASS",
+          "coverageState": "Đã được gửi và lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-08T20:07:22Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/blv/mai-canh-ben-close-to-you-2025",
+          "userCanonical": "https://hoathinhai.com/blv/mai-canh-ben-close-to-you-2025",
+          "referringUrls": [
+            "https://hoathinhai.bond/sitemap-blv.xml"
+          ],
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        },
+        "richResultsResult": {
+          "verdict": "PASS",
+          "detectedItems": [
+            {
+              "richResultType": "Đường dẫn",
+              "items": [
+                {
+                  "name": "Mục chưa có tên"
+                },
+                {
+                  "name": "Mục chưa có tên"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/blv/mot-lan-trong-ky-uc-once-in-memory-2021",
+    "inspected_at_utc": "2026-11-12T07:17:11.690Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=4cYZ_KkenLlqX0Cwggrzkw&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "PASS",
+          "coverageState": "Đã được gửi và lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-03T08:53:09Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/blv/mot-lan-trong-ky-uc-once-in-memory-2021",
+          "userCanonical": "https://hoathinhai.com/blv/mot-lan-trong-ky-uc-once-in-memory-2021",
+          "referringUrls": [
+            "https://hoathinhai.bond/sitemap-blv.xml"
+          ],
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        },
+        "richResultsResult": {
+          "verdict": "PASS",
+          "detectedItems": [
+            {
+              "richResultType": "Đường dẫn",
+              "items": [
+                {
+                  "name": "Mục chưa có tên"
+                },
+                {
+                  "name": "Mục chưa có tên"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/blv/nguoi-yeu-xui-xeo-unlucky-bae-2026",
+    "inspected_at_utc": "2026-11-12T07:17:11.205Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=PLfFWEvuzOqI_Cghcosndg&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "PASS",
+          "coverageState": "Đã được gửi và lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-10-30T23:56:36Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/blv/nguoi-yeu-xui-xeo-unlucky-bae-2026",
+          "userCanonical": "https://hoathinhai.com/blv/nguoi-yeu-xui-xeo-unlucky-bae-2026",
+          "referringUrls": [
+            "https://hoathinhai.bond/sitemap-blv.xml"
+          ],
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        },
+        "richResultsResult": {
+          "verdict": "PASS",
+          "detectedItems": [
+            {
+              "richResultType": "Đường dẫn",
+              "items": [
+                {
+                  "name": "Mục chưa có tên"
+                }
+              ]
+            },
+            {
+              "richResultType": "Video",
+              "items": [
+                {
+                  "name": "Người Yêu Xui Xẻo - Unlucky Bae จุดจีบสายมู (2026) — 01",
+                  "issues": [
+                    {
+                      "issueMessage": "Giá trị ngày giờ của \"uploadDate\" không hợp lệ",
+                      "severity": "WARNING"
+                    },
+                    {
+                      "issueMessage": "Thuộc tính ngày giờ \"uploadDate\" bị thiếu múi giờ",
+                      "severity": "WARNING"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/blv/payback-bao-thu-2026",
+    "inspected_at_utc": "2026-11-12T07:17:11.126Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=J2XiRzvMeGhjNl9kxK0d2w&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "PASS",
+          "coverageState": "Đã được gửi và lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-07T10:00:03Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/blv/payback-bao-thu-2026",
+          "userCanonical": "https://hoathinhai.com/blv/payback-bao-thu-2026",
+          "referringUrls": [
+            "https://hoathinhai.bond/sitemap-blv.xml"
+          ],
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        },
+        "richResultsResult": {
+          "verdict": "PASS",
+          "detectedItems": [
+            {
+              "richResultType": "Đường dẫn",
+              "items": [
+                {
+                  "name": "Mục chưa có tên"
+                },
+                {
+                  "name": "Mục chưa có tên"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/blv/quyet-trach-stand-by-me-2023",
+    "inspected_at_utc": "2026-11-12T07:17:11.286Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=xtCxzS8CSz9aBkn8kxcRpg&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "PASS",
+          "coverageState": "Đã được gửi và lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-03T15:47:39Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/blv/quyet-trach-stand-by-me-2023",
+          "userCanonical": "https://hoathinhai.com/blv/quyet-trach-stand-by-me-2023",
+          "referringUrls": [
+            "https://hoathinhai.bond/blv/quyet-trach-stand-by-me-2023",
+            "https://hoathinhai.bond/sitemap-blv.xml"
+          ],
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        },
+        "richResultsResult": {
+          "verdict": "PASS",
+          "detectedItems": [
+            {
+              "richResultType": "Đường dẫn",
+              "items": [
+                {
+                  "name": "Mục chưa có tên"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/blv/thieu-nien-miseinen-mijukuna-oretachi",
+    "inspected_at_utc": "2026-11-12T07:17:19.641Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=CtYQvzn8mbzUZS_iZseKKQ&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "PASS",
+          "coverageState": "Đã được gửi và lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-06T14:18:03Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/blv/thieu-nien-miseinen-mijukuna-oretachi",
+          "userCanonical": "https://hoathinhai.com/blv/thieu-nien-miseinen-mijukuna-oretachi",
+          "referringUrls": [
+            "https://hoathinhai.bond/blv/thieu-nien-miseinen-mijukuna-oretachi",
+            "https://hoathinhai.bond/sitemap-blv.xml"
+          ],
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        },
+        "richResultsResult": {
+          "verdict": "PASS",
+          "detectedItems": [
+            {
+              "richResultType": "Đường dẫn",
+              "items": [
+                {
+                  "name": "Mục chưa có tên"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/blv/tonhon-chonlatee-2020",
+    "inspected_at_utc": "2026-11-12T07:17:19.682Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=wP-obg51BMJLitvA631bKg&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "PASS",
+          "coverageState": "Đã được gửi và lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-06T06:07:38Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/blv/tonhon-chonlatee-2020",
+          "userCanonical": "https://hoathinhai.com/blv/tonhon-chonlatee-2020",
+          "referringUrls": [
+            "https://hoathinhai.bond/sitemap-blv.xml"
+          ],
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        },
+        "richResultsResult": {
+          "verdict": "PASS",
+          "detectedItems": [
+            {
+              "richResultType": "Đường dẫn",
+              "items": [
+                {
+                  "name": "Mục chưa có tên"
+                },
+                {
+                  "name": "Mục chưa có tên"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/blv/tua-nhu-hoi-tho-oxygen-series-2020",
+    "inspected_at_utc": "2026-11-12T07:17:19.497Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=pVUKysTz9fVjx0zCoyJ8bQ&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "PASS",
+          "coverageState": "Đã được gửi và lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-09T00:49:09Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/blv/tua-nhu-hoi-tho-oxygen-series-2020",
+          "userCanonical": "https://hoathinhai.com/blv/tua-nhu-hoi-tho-oxygen-series-2020",
+          "referringUrls": [
+            "https://hoathinhai.bond/sitemap-blv.xml"
+          ],
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        },
+        "richResultsResult": {
+          "verdict": "PASS",
+          "detectedItems": [
+            {
+              "richResultType": "Đường dẫn",
+              "items": [
+                {
+                  "name": "Mục chưa có tên"
+                },
+                {
+                  "name": "Mục chưa có tên"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/blv/xe-ap-tinh-yeu-love-like-bike-2026",
+    "inspected_at_utc": "2026-11-12T07:17:19.704Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=bOe3a6NFMFMOfgawW-Rd-g&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "PASS",
+          "coverageState": "Đã được gửi và lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-10-29T19:28:54Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/blv/xe-ap-tinh-yeu-love-like-bike-2026",
+          "userCanonical": "https://hoathinhai.com/blv/xe-ap-tinh-yeu-love-like-bike-2026",
+          "referringUrls": [
+            "https://hoathinhai.bond/sitemap-blv.xml"
+          ],
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        },
+        "richResultsResult": {
+          "verdict": "PASS",
+          "detectedItems": [
+            {
+              "richResultType": "Đường dẫn",
+              "items": [
+                {
+                  "name": "Mục chưa có tên"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+]

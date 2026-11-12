@@ -1,0 +1,855 @@
+[
+  {
+    "url": "https://hoathinhai.com/blv/hoai-cau-vang-trang-va-bui-tran-moon",
+    "inspected_at_utc": "2026-11-12T07:12:45.052Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=YR3nXiwcwFQMn1SD0BYo7w&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "PASS",
+          "coverageState": "Đã được gửi và lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-03T17:55:08Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/blv/hoai-cau-vang-trang-va-bui-tran-moon",
+          "userCanonical": "https://hoathinhai.com/blv/hoai-cau-vang-trang-va-bui-tran-moon",
+          "referringUrls": [
+            "https://hoathinhai.bond/sitemap-blv.xml"
+          ],
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        },
+        "richResultsResult": {
+          "verdict": "PASS",
+          "detectedItems": [
+            {
+              "richResultType": "Đường dẫn",
+              "items": [
+                {
+                  "name": "Mục chưa có tên"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/blv/gia-toc-ma-so-than-thanh-perfect10-liners-2024",
+    "inspected_at_utc": "2026-11-12T07:12:44.662Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=Dp3hJ4QRB4M43-u6mvwooQ&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "PASS",
+          "coverageState": "Đã được gửi và lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-03T17:51:42Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/blv/gia-toc-ma-so-than-thanh-perfect10-liners-2024",
+          "userCanonical": "https://hoathinhai.com/blv/gia-toc-ma-so-than-thanh-perfect10-liners-2024",
+          "referringUrls": [
+            "https://hoathinhai.bond/sitemap-blv.xml"
+          ],
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        },
+        "richResultsResult": {
+          "verdict": "PASS",
+          "detectedItems": [
+            {
+              "richResultType": "Đường dẫn",
+              "items": [
+                {
+                  "name": "Mục chưa có tên"
+                },
+                {
+                  "name": "Mục chưa có tên"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/blv/tiem-banh-mi-vu-tru-wuju-bakery-2023",
+    "inspected_at_utc": "2026-11-12T07:12:44.934Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=fWcCrUaGYIst_unFyLPtsg&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "PASS",
+          "coverageState": "Đã được gửi và lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-10-28T14:03:40Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/blv/tiem-banh-mi-vu-tru-wuju-bakery-2023",
+          "userCanonical": "https://hoathinhai.com/blv/tiem-banh-mi-vu-tru-wuju-bakery-2023",
+          "referringUrls": [
+            "https://hoathinhai.bond/sitemap-blv.xml"
+          ],
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        },
+        "richResultsResult": {
+          "verdict": "PASS",
+          "detectedItems": [
+            {
+              "richResultType": "Đường dẫn",
+              "items": [
+                {
+                  "name": "Mục chưa có tên"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/phim-tong-hop/trang-dau-tien-cua-nhat-ky",
+    "inspected_at_utc": "2026-11-12T07:12:44.722Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=PK2tC3v22JPXKkVUi3JlmA&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "PASS",
+          "coverageState": "Đã được gửi và lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-03T14:57:08Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/phim-tong-hop/trang-dau-tien-cua-nhat-ky",
+          "userCanonical": "https://hoathinhai.com/phim-tong-hop/trang-dau-tien-cua-nhat-ky",
+          "referringUrls": [
+            "https://hoathinhai.com/sitemap-tong-hop.xml?page=126"
+          ],
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        },
+        "richResultsResult": {
+          "verdict": "PASS",
+          "detectedItems": [
+            {
+              "richResultType": "Đường dẫn",
+              "items": [
+                {
+                  "name": "Mục chưa có tên"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/phim-tong-hop/vung-dat-quy-du-2026",
+    "inspected_at_utc": "2026-11-12T07:12:53.814Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=GhhlzSu0ZYlFqEvb7u31vg&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "PASS",
+          "coverageState": "Đã được gửi và lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-03T14:10:50Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/phim-tong-hop/vung-dat-quy-du-2026",
+          "userCanonical": "https://hoathinhai.com/phim-tong-hop/vung-dat-quy-du-2026",
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        },
+        "richResultsResult": {
+          "verdict": "PASS",
+          "detectedItems": [
+            {
+              "richResultType": "Đường dẫn",
+              "items": [
+                {
+                  "name": "Mục chưa có tên"
+                }
+              ]
+            },
+            {
+              "richResultType": "Video",
+              "items": [
+                {
+                  "name": "Vùng Đất Quỷ Dữ — Full"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/blv/khi-toi-va-thien-than-chung-phong-one",
+    "inspected_at_utc": "2026-11-12T07:12:53.000Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=Rb17VROGKUN0IUQ44L84qg&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "PASS",
+          "coverageState": "Đã được gửi và lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-10-31T02:47:23Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/blv/khi-toi-va-thien-than-chung-phong-one",
+          "userCanonical": "https://hoathinhai.com/blv/khi-toi-va-thien-than-chung-phong-one",
+          "referringUrls": [
+            "https://hoathinhai.bond/sitemap-blv.xml"
+          ],
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        },
+        "richResultsResult": {
+          "verdict": "PASS",
+          "detectedItems": [
+            {
+              "richResultType": "Đường dẫn",
+              "items": [
+                {
+                  "name": "Mục chưa có tên"
+                }
+              ]
+            },
+            {
+              "richResultType": "Video",
+              "items": [
+                {
+                  "name": "Khi Tôi Và Thiên Thần Chung Phòng - One Room Angel (2023) — 01",
+                  "issues": [
+                    {
+                      "issueMessage": "Giá trị ngày giờ của \"uploadDate\" không hợp lệ",
+                      "severity": "WARNING"
+                    },
+                    {
+                      "issueMessage": "Thuộc tính ngày giờ \"uploadDate\" bị thiếu múi giờ",
+                      "severity": "WARNING"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/blv/trong-long-at-viet-and-nam-2024",
+    "inspected_at_utc": "2026-11-12T07:12:53.026Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=Ohr0BSM57T_BbQWNcx86ag&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "PASS",
+          "coverageState": "Đã được gửi và lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-08T18:03:17Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/blv/trong-long-at-viet-and-nam-2024",
+          "userCanonical": "https://hoathinhai.com/blv/trong-long-at-viet-and-nam-2024",
+          "referringUrls": [
+            "https://hoathinhai.bond/sitemap-blv.xml"
+          ],
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        },
+        "richResultsResult": {
+          "verdict": "PASS",
+          "detectedItems": [
+            {
+              "richResultType": "Đường dẫn",
+              "items": [
+                {
+                  "name": "Mục chưa có tên"
+                },
+                {
+                  "name": "Mục chưa có tên"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/blv/ai-la-enchante-enchante-2022",
+    "inspected_at_utc": "2026-11-12T07:12:52.839Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=bbKUyrOco5xBH0A52Jrouw&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "PASS",
+          "coverageState": "Đã được gửi và lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-06T10:41:43Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/blv/ai-la-enchante-enchante-2022",
+          "userCanonical": "https://hoathinhai.com/blv/ai-la-enchante-enchante-2022",
+          "referringUrls": [
+            "https://hoathinhai.bond/sitemap-blv.xml"
+          ],
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        },
+        "richResultsResult": {
+          "verdict": "PASS",
+          "detectedItems": [
+            {
+              "richResultType": "Đường dẫn",
+              "items": [
+                {
+                  "name": "Mục chưa có tên"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/blv/chiem-giu-tuyet-oi-you-are-mine-2023",
+    "inspected_at_utc": "2026-11-12T07:13:01.684Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=9FOSXszFt2FRsKy3NQSdOA&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "PASS",
+          "coverageState": "Đã được gửi và lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-03T17:47:16Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/blv/chiem-giu-tuyet-oi-you-are-mine-2023",
+          "userCanonical": "https://hoathinhai.com/blv/chiem-giu-tuyet-oi-you-are-mine-2023",
+          "referringUrls": [
+            "https://hoathinhai.bond/blv/chiem-giu-tuyet-oi-you-are-mine-2023",
+            "https://hoathinhai.bond/sitemap-blv.xml"
+          ],
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        },
+        "richResultsResult": {
+          "verdict": "PASS",
+          "detectedItems": [
+            {
+              "richResultType": "Đường dẫn",
+              "items": [
+                {
+                  "name": "Mục chưa có tên"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/blv/kiss-kiss-sxx-x-2025",
+    "inspected_at_utc": "2026-11-12T07:13:01.776Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=f8jSvopmxLdpY2vOm6eYdg&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "PASS",
+          "coverageState": "Đã được gửi và lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-10T08:16:00Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/blv/kiss-kiss-sxx-x-2025",
+          "userCanonical": "https://hoathinhai.com/blv/kiss-kiss-sxx-x-2025",
+          "referringUrls": [
+            "https://hoathinhai.bond/sitemap-blv.xml"
+          ],
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        },
+        "richResultsResult": {
+          "verdict": "PASS",
+          "detectedItems": [
+            {
+              "richResultType": "Đường dẫn",
+              "items": [
+                {
+                  "name": "Mục chưa có tên"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/phim-tong-hop/tuoi-tre-sherlock-holmes-phan-1",
+    "inspected_at_utc": "2026-11-12T07:13:01.661Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=fl9pgY29ajc_rKzEPz1heA&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "PASS",
+          "coverageState": "Đã được gửi và lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-03T15:12:09Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/phim-tong-hop/tuoi-tre-sherlock-holmes-phan-1",
+          "userCanonical": "https://hoathinhai.com/phim-tong-hop/tuoi-tre-sherlock-holmes-phan-1",
+          "referringUrls": [
+            "https://hoathinhai.com/sitemap-tong-hop.xml?page=179"
+          ],
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        },
+        "richResultsResult": {
+          "verdict": "PASS",
+          "detectedItems": [
+            {
+              "richResultType": "Đường dẫn",
+              "items": [
+                {
+                  "name": "Mục chưa có tên"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/blv/bua-yeu-spell-2024",
+    "inspected_at_utc": "2026-11-12T07:13:01.671Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=2XRizD-U8FMNIXvI_tlYaQ&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "PASS",
+          "coverageState": "Đã được gửi và lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-10-29T19:46:59Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/blv/bua-yeu-spell-2024",
+          "userCanonical": "https://hoathinhai.com/blv/bua-yeu-spell-2024",
+          "referringUrls": [
+            "https://hoathinhai.bond/sitemap-blv.xml"
+          ],
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        },
+        "richResultsResult": {
+          "verdict": "PASS",
+          "detectedItems": [
+            {
+              "richResultType": "Đường dẫn",
+              "items": [
+                {
+                  "name": "Mục chưa có tên"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/blv/han-duong-phong-khoi-xuan-son-canh-a-winter-sun-wakes-the-wind-in-spring-hills-dream-2026",
+    "inspected_at_utc": "2026-11-12T07:13:10.357Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=b33M0JTFlohs839MMHezWQ&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "PASS",
+          "coverageState": "Đã được gửi và lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-04T04:09:53Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/blv/han-duong-phong-khoi-xuan-son-canh-a-winter-sun-wakes-the-wind-in-spring-hills-dream-2026",
+          "userCanonical": "https://hoathinhai.com/blv/han-duong-phong-khoi-xuan-son-canh-a-winter-sun-wakes-the-wind-in-spring-hills-dream-2026",
+          "referringUrls": [
+            "https://hoathinhai.bond/sitemap-blv.xml"
+          ],
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        },
+        "richResultsResult": {
+          "verdict": "PASS",
+          "detectedItems": [
+            {
+              "richResultType": "Đường dẫn",
+              "items": [
+                {
+                  "name": "Mục chưa có tên"
+                }
+              ]
+            },
+            {
+              "richResultType": "Video",
+              "items": [
+                {
+                  "name": "Hàn Dương Phong Khởi Xuân Sơn Cảnh - A Winter Sun Wakes the Wind in Spring Hills&#39; Dream 寒阳风起春山境 (2026) — Tập 1"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/blv/tinh-yeu-vat-ly-love-is-science-2021",
+    "inspected_at_utc": "2026-11-12T07:13:09.734Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=Y2lDDizAzq9js0QJKuK8wg&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "PASS",
+          "coverageState": "Đã được gửi và lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-08T06:08:31Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/blv/tinh-yeu-vat-ly-love-is-science-2021",
+          "userCanonical": "https://hoathinhai.com/blv/tinh-yeu-vat-ly-love-is-science-2021",
+          "referringUrls": [
+            "https://hoathinhai.com/blv/tinh-yeu-vat-ly",
+            "https://hoathinhai.bond/blv/tinh-yeu-vat-ly-love-is-science-2021",
+            "https://hoathinhai.bond/sitemap-blv.xml"
+          ],
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        },
+        "richResultsResult": {
+          "verdict": "PASS",
+          "detectedItems": [
+            {
+              "richResultType": "Đường dẫn",
+              "items": [
+                {
+                  "name": "Mục chưa có tên"
+                },
+                {
+                  "name": "Mục chưa có tên"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/phim-tong-hop/cuong-no-tap-kich",
+    "inspected_at_utc": "2026-11-12T07:13:09.608Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=CjPEqCs3zmtmJVFlf6RowQ&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "PASS",
+          "coverageState": "Đã được gửi và lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-03T10:17:22Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/phim-tong-hop/cuong-no-tap-kich",
+          "userCanonical": "https://hoathinhai.com/phim-tong-hop/cuong-no-tap-kich",
+          "referringUrls": [
+            "https://hoathinhai.com/sitemap-tong-hop.xml?page=183"
+          ],
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        },
+        "richResultsResult": {
+          "verdict": "PASS",
+          "detectedItems": [
+            {
+              "richResultType": "Đường dẫn",
+              "items": [
+                {
+                  "name": "Mục chưa có tên"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/blv/apo-gia-mao-me-and-who-2025",
+    "inspected_at_utc": "2026-11-12T07:13:09.602Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=D9PbqXwzBQDEcvkIPpBCSg&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "PASS",
+          "coverageState": "Đã được gửi và lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-03T08:57:07Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/blv/apo-gia-mao-me-and-who-2025",
+          "userCanonical": "https://hoathinhai.com/blv/apo-gia-mao-me-and-who-2025",
+          "referringUrls": [
+            "https://hoathinhai.bond/sitemap-blv.xml"
+          ],
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        },
+        "richResultsResult": {
+          "verdict": "PASS",
+          "detectedItems": [
+            {
+              "richResultType": "Đường dẫn",
+              "items": [
+                {
+                  "name": "Mục chưa có tên"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/blv/du-hanh-thoi-gian-time-series-2024",
+    "inspected_at_utc": "2026-11-12T07:13:18.350Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=xYc0924jHjpwIuu8wgqQxg&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "PASS",
+          "coverageState": "Đã được gửi và lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-10-31T02:25:36Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/blv/du-hanh-thoi-gian-time-series-2024",
+          "userCanonical": "https://hoathinhai.com/blv/du-hanh-thoi-gian-time-series-2024",
+          "referringUrls": [
+            "https://hoathinhai.bond/sitemap-blv.xml"
+          ],
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        },
+        "richResultsResult": {
+          "verdict": "PASS",
+          "detectedItems": [
+            {
+              "richResultType": "Đường dẫn",
+              "items": [
+                {
+                  "name": "Mục chưa có tên"
+                }
+              ]
+            },
+            {
+              "richResultType": "Video",
+              "items": [
+                {
+                  "name": "Du Hành Thời Gian - Time The Series (2024) — 01",
+                  "issues": [
+                    {
+                      "issueMessage": "Giá trị ngày giờ của \"uploadDate\" không hợp lệ",
+                      "severity": "WARNING"
+                    },
+                    {
+                      "issueMessage": "Thuộc tính ngày giờ \"uploadDate\" bị thiếu múi giờ",
+                      "severity": "WARNING"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/blv/oppa-xa-hoi-en-than-yeu-my-dear",
+    "inspected_at_utc": "2026-11-12T07:13:18.254Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=waXjYkGv1wIqK6_VOM9DGw&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "PASS",
+          "coverageState": "Đã được gửi và lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-07T17:19:31Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/blv/oppa-xa-hoi-en-than-yeu-my-dear",
+          "userCanonical": "https://hoathinhai.com/blv/oppa-xa-hoi-en-than-yeu-my-dear",
+          "referringUrls": [
+            "https://hoathinhai.bond/sitemap-blv.xml"
+          ],
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        },
+        "richResultsResult": {
+          "verdict": "PASS",
+          "detectedItems": [
+            {
+              "richResultType": "Đường dẫn",
+              "items": [
+                {
+                  "name": "Mục chưa có tên"
+                },
+                {
+                  "name": "Mục chưa có tên"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/blv/yeu-them-lan-nua-individual",
+    "inspected_at_utc": "2026-11-12T07:13:18.315Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=MoIgITn-W6CjqlVI1VPAXg&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "PASS",
+          "coverageState": "Đã được gửi và lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-03T16:04:06Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/blv/yeu-them-lan-nua-individual",
+          "userCanonical": "https://hoathinhai.com/blv/yeu-them-lan-nua-individual",
+          "referringUrls": [
+            "https://hoathinhai.bond/sitemap-blv.xml"
+          ],
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        },
+        "richResultsResult": {
+          "verdict": "PASS",
+          "detectedItems": [
+            {
+              "richResultType": "Đường dẫn",
+              "items": [
+                {
+                  "name": "Mục chưa có tên"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/phim-tong-hop/ong-kinh-ma-quai",
+    "inspected_at_utc": "2026-11-12T07:13:18.493Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=iHtMXRXvt6gXygkJLJUTEg&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "PASS",
+          "coverageState": "Đã được gửi và lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-03T14:17:44Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/phim-tong-hop/ong-kinh-ma-quai",
+          "userCanonical": "https://hoathinhai.com/phim-tong-hop/ong-kinh-ma-quai",
+          "referringUrls": [
+            "https://hoathinhai.com/sitemap-tong-hop.xml?page=173"
+          ],
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        },
+        "richResultsResult": {
+          "verdict": "PASS",
+          "detectedItems": [
+            {
+              "richResultType": "Đường dẫn",
+              "items": [
+                {
+                  "name": "Mục chưa có tên"
+                }
+              ]
+            },
+            {
+              "richResultType": "Video",
+              "items": [
+                {
+                  "name": "Ống Kính Ma Quái — Full"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+]
+

@@ -1,0 +1,745 @@
+{
+  "property": "sc-domain:hoathinhai.com",
+  "shard": 0,
+  "records": [
+    {
+      "url": "https://hoathinhai.com/phim-tong-hop/truong-he-2001",
+      "inspected_at_utc": "2026-11-12T07:21:44.363Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=00o1GHOflMC-E7sIjXfImw&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-03T16:14:04Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/phim-tong-hop/truong-he-2001",
+            "userCanonical": "https://hoathinhai.com/phim-tong-hop/truong-he-2001",
+            "referringUrls": [
+              "https://hoathinhai.com/sitemap-tong-hop.xml?page=11"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/phim-tong-hop/trung-so-doc-dac-van-phai-di-lam",
+      "inspected_at_utc": "2026-11-12T07:21:44.158Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=rlXCAY_Bt_ZOV5px9GWSxQ&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "NEUTRAL",
+            "coverageState": "Đã thu thập dữ liệu – hiện chưa được lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-01T16:32:53Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/phim-tong-hop/trung-so-doc-dac-van-phai-di-lam",
+            "userCanonical": "https://hoathinhai.com/phim-tong-hop/trung-so-doc-dac-van-phai-di-lam",
+            "referringUrls": [
+              "https://hoathinhai.com/sitemap-tong-hop.xml?page=17"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/phim-tong-hop/trum-cuoi-hoang-da-xuat-hien-phan-2",
+      "inspected_at_utc": "2026-11-12T07:21:44.489Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=95Hksd5Cs4YA7QmKEHVSxw&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "NEUTRAL",
+            "coverageState": "Google không xác định được URL",
+            "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+            "indexingState": "INDEXING_STATE_UNSPECIFIED",
+            "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/phim-tong-hop/trum-cuoi-hoang-da-xuat-hien-phan-1",
+      "inspected_at_utc": "2026-11-12T07:21:44.388Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=zTGee4C6UapzfGtfls5jaw&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "NEUTRAL",
+            "coverageState": "Google không xác định được URL",
+            "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+            "indexingState": "INDEXING_STATE_UNSPECIFIED",
+            "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/phim-tong-hop/tru-tien",
+      "inspected_at_utc": "2026-11-12T07:21:44.357Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=78pgZbjggEqGz9MHaDuI5Q&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "NEUTRAL",
+            "coverageState": "Google không xác định được URL",
+            "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+            "indexingState": "INDEXING_STATE_UNSPECIFIED",
+            "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/phim-tong-hop/trong-luong",
+      "inspected_at_utc": "2026-11-12T07:21:44.397Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=IBs3klx1yqUol3HpTciYpA&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-03T16:23:32Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/phim-tong-hop/trong-luong",
+            "userCanonical": "https://hoathinhai.com/phim-tong-hop/trong-luong",
+            "referringUrls": [
+              "https://hoathinhai.com/sitemap-tong-hop.xml?page=11"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              },
+              {
+                "richResultType": "Video",
+                "items": [
+                  {
+                    "name": "Trọng Lượng — Full"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/phim-tong-hop/trong-giap-hiep-si-chuyen-sinh-bi-luu-day-tro-nen-vo-dich-nho-kien-thuc-ve-game",
+      "inspected_at_utc": "2026-11-12T07:21:44.092Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=i_qnfKTPGq4_iW1TbUM2lQ&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "NEUTRAL",
+            "coverageState": "Đã thu thập dữ liệu – hiện chưa được lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-03T13:26:30Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/phim-tong-hop/trong-giap-hiep-si-chuyen-sinh-bi-luu-day-tro-nen-vo-dich-nho-kien-thuc-ve-game",
+            "userCanonical": "https://hoathinhai.com/phim-tong-hop/trong-giap-hiep-si-chuyen-sinh-bi-luu-day-tro-nen-vo-dich-nho-kien-thuc-ve-game",
+            "referringUrls": [
+              "https://hoathinhai.com/sitemap-tong-hop.xml?page=4"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/phim-tong-hop/tro-tan-vung-len",
+      "inspected_at_utc": "2026-11-12T07:21:44.308Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=Mj_u_swwndRx3gjNZab0Ww&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-03T08:41:32Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/phim-tong-hop/tro-tan-vung-len",
+            "userCanonical": "https://hoathinhai.com/phim-tong-hop/tro-tan-vung-len",
+            "referringUrls": [
+              "https://hoathinhai.com/sitemap-tong-hop.xml?page=20"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              },
+              {
+                "richResultType": "Video",
+                "items": [
+                  {
+                    "name": "Tro Tàn Vùng Lên — Full"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/phim-tong-hop/tro-choi-bat-coc",
+      "inspected_at_utc": "2026-11-12T07:21:52.676Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=M_7eF8-Xc0aQF_fyK5B9Iw&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "NEUTRAL",
+            "coverageState": "Google không xác định được URL",
+            "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+            "indexingState": "INDEXING_STATE_UNSPECIFIED",
+            "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/phim-tong-hop/trat-bao-than-phan-1",
+      "inspected_at_utc": "2026-11-12T07:21:52.663Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=newm3jVPGvOgqf7OUP_k7w&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "NEUTRAL",
+            "coverageState": "Google không xác định được URL",
+            "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+            "indexingState": "INDEXING_STATE_UNSPECIFIED",
+            "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/phim-tong-hop/tran-yem",
+      "inspected_at_utc": "2026-11-12T07:21:52.493Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=aeMLE04-rKgrw6mKMguU6Q&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "NEUTRAL",
+            "coverageState": "Google không xác định được URL",
+            "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+            "indexingState": "INDEXING_STATE_UNSPECIFIED",
+            "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/phim-tong-hop/tran-chien-xuyen-vu-tru-phan-4",
+      "inspected_at_utc": "2026-11-12T07:21:52.412Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=QnbdOTpDtqOjm4WV2c83bg&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-03T23:24:06Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/phim-tong-hop/tran-chien-xuyen-vu-tru-phan-4",
+            "userCanonical": "https://hoathinhai.com/phim-tong-hop/tran-chien-xuyen-vu-tru-phan-4",
+            "referringUrls": [
+              "https://hoathinhai.com/sitemap-tong-hop.xml?page=2"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              },
+              {
+                "richResultType": "Video",
+                "items": [
+                  {
+                    "name": "Trận Chiến Xuyên Vũ Trụ (Phần 4) — Tập 01"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/phim-tong-hop/tran-chien-xuyen-vu-tru-phan-3",
+      "inspected_at_utc": "2026-11-12T07:21:52.558Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=EaUZU9D7qGVBofHnS7O7lw&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-03T18:10:48Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/phim-tong-hop/tran-chien-xuyen-vu-tru-phan-3",
+            "userCanonical": "https://hoathinhai.com/phim-tong-hop/tran-chien-xuyen-vu-tru-phan-3",
+            "referringUrls": [
+              "https://hoathinhai.com/phim-tong-hop/tran-chien-xuyen-vu-tru-phan-3?f=kk",
+              "https://hoathinhai.com/sitemap-tong-hop.xml?page=2"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              },
+              {
+                "richResultType": "Video",
+                "items": [
+                  {
+                    "name": "Trận Chiến Xuyên Vũ Trụ (Phần 3) — Tập 01"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/phim-tong-hop/trai-tim-quai-thu",
+      "inspected_at_utc": "2026-11-12T07:21:53.118Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=EModxM6m46DGsxl2kGFyPQ&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-11T12:04:23Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/phim-tong-hop/trai-tim-quai-thu",
+            "userCanonical": "https://hoathinhai.com/phim-tong-hop/trai-tim-quai-thu",
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              },
+              {
+                "richResultType": "Video",
+                "items": [
+                  {
+                    "name": "Trái Tim Quái Thú — Full"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/phim-tong-hop/trai-tim-cua-ke-ky-sinh",
+      "inspected_at_utc": "2026-11-12T07:21:52.317Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=EvWQIVOZkYGXLZl6HVXJlA&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-04T00:48:48Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/phim-tong-hop/trai-tim-cua-ke-ky-sinh",
+            "userCanonical": "https://hoathinhai.com/phim-tong-hop/trai-tim-cua-ke-ky-sinh",
+            "referringUrls": [
+              "https://hoathinhai.com/sitemap-tong-hop.xml?page=11"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/phim-tong-hop/tra-gia",
+      "inspected_at_utc": "2026-11-12T07:21:52.395Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=6FfBJ-eV-ynUzppYTM1C0w&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "NEUTRAL",
+            "coverageState": "Google không xác định được URL",
+            "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+            "indexingState": "INDEXING_STATE_UNSPECIFIED",
+            "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/phim-tong-hop/toukutsu-ou",
+      "inspected_at_utc": "2026-11-12T07:22:00.843Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=BEMY8eI_1sfGBc4MRyj2Zg&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "NEUTRAL",
+            "coverageState": "Google không xác định được URL",
+            "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+            "indexingState": "INDEXING_STATE_UNSPECIFIED",
+            "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/phim-tong-hop/tong-thong-curtis-phan-1",
+      "inspected_at_utc": "2026-11-12T07:22:01.269Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=mjhA_cwOk87PXd1K-mZ7GA&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-03T13:47:49Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/phim-tong-hop/tong-thong-curtis-phan-1",
+            "userCanonical": "https://hoathinhai.com/phim-tong-hop/tong-thong-curtis-phan-1",
+            "referringUrls": [
+              "https://hoathinhai.com/sitemap-tong-hop.xml?page=20"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              },
+              {
+                "richResultType": "Video",
+                "items": [
+                  {
+                    "name": "Tổng Thống Curtis (Phần 1) — Tập 01"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/phim-tong-hop/tokyo-revengers-santen-sensou-hen",
+      "inspected_at_utc": "2026-11-12T07:22:01.110Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=_jXYk7SKkMYad_B2is6Hfw&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "NEUTRAL",
+            "coverageState": "Google không xác định được URL",
+            "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+            "indexingState": "INDEXING_STATE_UNSPECIFIED",
+            "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/phim-tong-hop/tokyo-ghoulre-2nd-season",
+      "inspected_at_utc": "2026-11-12T07:22:01.080Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=DjYlsuzsN1wDuHaVimtW3w&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "NEUTRAL",
+            "coverageState": "Google không xác định được URL",
+            "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+            "indexingState": "INDEXING_STATE_UNSPECIFIED",
+            "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/phim-tong-hop/tokyo-ghoulre",
+      "inspected_at_utc": "2026-11-12T07:22:01.272Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=PdfqT6kX5oRHUtekj1ptQQ&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "NEUTRAL",
+            "coverageState": "Google không xác định được URL",
+            "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+            "indexingState": "INDEXING_STATE_UNSPECIFIED",
+            "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/phim-tong-hop/toi-khong-phai-la-dai-su-phan-1",
+      "inspected_at_utc": "2026-11-12T07:22:01.094Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=5W8PhqOVPGMtTM3YVNxDBQ&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-03T18:07:46Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/phim-tong-hop/toi-khong-phai-la-dai-su-phan-1",
+            "userCanonical": "https://hoathinhai.com/phim-tong-hop/toi-khong-phai-la-dai-su-phan-1",
+            "referringUrls": [
+              "https://hoathinhai.com/sitemap-tong-hop.xml?page=19"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              },
+              {
+                "richResultType": "Video",
+                "items": [
+                  {
+                    "name": "Tôi Không Phải Là Đại Sư (Phần 1) — Tập 01"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/phim-tong-hop/tit-xa-phuong-bac-phan-2",
+      "inspected_at_utc": "2026-11-12T07:22:01.023Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=gqVg2ZakYap4x1rX9l8Cmw&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "NEUTRAL",
+            "coverageState": "Đã thu thập dữ liệu – hiện chưa được lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-07T10:21:39Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/phim-tong-hop/tit-xa-phuong-bac-phan-2",
+            "userCanonical": "https://hoathinhai.com/phim-tong-hop/tit-xa-phuong-bac-phan-2",
+            "referringUrls": [
+              "https://hoathinhai.com/sitemap-tong-hop.xml?page=2"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/phim-tong-hop/tit-xa-phuong-bac-phan-1",
+      "inspected_at_utc": "2026-11-12T07:22:01.009Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=WbDFvtMEa-Bbmqkj3-tvEg&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-07T12:20:07Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/phim-tong-hop/tit-xa-phuong-bac-phan-1",
+            "userCanonical": "https://hoathinhai.com/phim-tong-hop/tit-xa-phuong-bac-phan-1",
+            "referringUrls": [
+              "https://hoathinhai.com/sitemap-tong-hop.xml?page=2"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              },
+              {
+                "richResultType": "Video",
+                "items": [
+                  {
+                    "name": "Tít Xa Phương Bắc (Phần 1) — Tập 01"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

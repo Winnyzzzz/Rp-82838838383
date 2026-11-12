@@ -1,0 +1,89 @@
+{
+  "property": "sc-domain:hoathinhai.com",
+  "shard": 0,
+  "records": [
+    {
+      "url": "https://hoathinhai.com/phim-tong-hop/sasaki-va-pii-chan-phan-2",
+      "inspected_at_utc": "2026-11-12T07:23:46.345Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=Pu-bDsRWK3p12mmPn0WD0w&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "NEUTRAL",
+            "coverageState": "Google không xác định được URL",
+            "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+            "indexingState": "INDEXING_STATE_UNSPECIFIED",
+            "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/phim-tong-hop/sasaki-va-pii-chan-phan-1",
+      "inspected_at_utc": "2026-11-12T07:23:46.809Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=EhQW_9tTtniOGrgbld0GKg&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "NEUTRAL",
+            "coverageState": "Google không xác định được URL",
+            "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+            "indexingState": "INDEXING_STATE_UNSPECIFIED",
+            "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/phim-tong-hop/sao-nao-tai-sinh-thanh-goblins-thi-co-gi-sai",
+      "inspected_at_utc": "2026-11-12T07:23:46.558Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=0j4yHkr6cXSvzm2wG33ezg&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "NEUTRAL",
+            "coverageState": "Google không xác định được URL",
+            "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+            "indexingState": "INDEXING_STATE_UNSPECIFIED",
+            "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/phim-tong-hop/san-khau-dam-me-2",
+      "inspected_at_utc": "2026-11-12T07:23:46.345Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=INhLor1ovWDrylLMi-DHUQ&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "NEUTRAL",
+            "coverageState": "Đã thu thập dữ liệu – hiện chưa được lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-03T08:40:50Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/phim-tong-hop/san-khau-dam-me-2",
+            "userCanonical": "https://hoathinhai.com/phim-tong-hop/san-khau-dam-me-2",
+            "referringUrls": [
+              "https://hoathinhai.com/sitemap-tong-hop.xml?page=12"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          }
+        }
+      }
+    }
+  ]
+}

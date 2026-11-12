@@ -1,0 +1,29 @@
+{
+  "exported_at_utc": "2026-11-12T07:27:21.020702+00:00",
+  "property": "sc-domain:hoathinhai.com",
+  "total_inventory": 8772,
+  "status_counts": {
+    "INDEXED": 1116,
+    "NOT_INDEXED": 879,
+    "UNINSPECTED": 6772,
+    "INSPECTION_ERROR": 5
+  },
+  "raw_records": 2000,
+  "unique_inspected_urls": 2000,
+  "nonindexed_reasons": {
+    "Đã phát hiện thấy – hiện chưa được lập chỉ mục": 145,
+    "Google không xác định được URL": 478,
+    "Đã thu thập dữ liệu – hiện chưa được lập chỉ mục": 244,
+    "Bị loại trừ bởi thẻ 'noindex'": 6,
+    "Trang có lệnh chuyển hướng": 1,
+    "Trang thay thế có thẻ chính tắc thích hợp": 5
+  },
+  "sitemaps_fetched": 126,
+  "sitemap_failures": [],
+  "quota_stops": [],
+  "analytics_pages": 992,
+  "analytics_pages_truncated": false,
+  "analytics_queries": 814,
+  "analytics_queries_truncated": false,
+  "inspection_limit": 2000
+}

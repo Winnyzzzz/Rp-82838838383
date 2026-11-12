@@ -1,0 +1,870 @@
+{
+  "property": "sc-domain:hoathinhai.com",
+  "shard": 0,
+  "records": [
+    {
+      "url": "https://hoathinhai.com/blv/chang-khon-masked-hearts-2026",
+      "inspected_at_utc": "2026-11-12T07:18:23.298Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=fcgmXgop5V2AXFJ6Fyj7dg&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-10-31T02:01:24Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/blv/chang-khon-masked-hearts-2026",
+            "userCanonical": "https://hoathinhai.com/blv/chang-khon-masked-hearts-2026",
+            "referringUrls": [
+              "https://hoathinhai.bond/sitemap-blv.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              },
+              {
+                "richResultType": "Video",
+                "items": [
+                  {
+                    "name": "Chàng Khon - The Masked Hearts นายโขน (2026) — 01",
+                    "issues": [
+                      {
+                        "issueMessage": "Giá trị ngày giờ của \"uploadDate\" không hợp lệ",
+                        "severity": "WARNING"
+                      },
+                      {
+                        "issueMessage": "Thuộc tính ngày giờ \"uploadDate\" bị thiếu múi giờ",
+                        "severity": "WARNING"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/blv/chim-se-trong-long-sparrow-in-cage-2026",
+      "inspected_at_utc": "2026-11-12T07:18:23.443Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=UzBmclOHNbAhWswMFPMWag&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-10-31T00:27:50Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/blv/chim-se-trong-long-sparrow-in-cage-2026",
+            "userCanonical": "https://hoathinhai.com/blv/chim-se-trong-long-sparrow-in-cage-2026",
+            "referringUrls": [
+              "https://hoathinhai.bond/sitemap-blv.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              },
+              {
+                "richResultType": "Video",
+                "items": [
+                  {
+                    "name": "Chim Sẻ Trong Lồng - Sparrow in a Cage 籠中雀 (2026) — Full",
+                    "issues": [
+                      {
+                        "issueMessage": "Giá trị ngày giờ của \"uploadDate\" không hợp lệ",
+                        "severity": "WARNING"
+                      },
+                      {
+                        "issueMessage": "Thuộc tính ngày giờ \"uploadDate\" bị thiếu múi giờ",
+                        "severity": "WARNING"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/blv/chuyen-tinh-silom-2026",
+      "inspected_at_utc": "2026-11-12T07:18:23.437Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=IaoooYTV1uYIwp1Ijf66HQ&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-10-30T00:24:51Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/blv/chuyen-tinh-silom-2026",
+            "userCanonical": "https://hoathinhai.com/blv/chuyen-tinh-silom-2026",
+            "referringUrls": [
+              "https://hoathinhai.bond/sitemap-blv.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/blv/danh-cho-rieng-minh-em-never-let-me-go",
+      "inspected_at_utc": "2026-11-12T07:18:23.242Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=RRD3lcaQ0MpuxIveiLp20w&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-10-30T06:56:17Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/blv/danh-cho-rieng-minh-em-never-let-me-go",
+            "userCanonical": "https://hoathinhai.com/blv/danh-cho-rieng-minh-em-never-let-me-go",
+            "referringUrls": [
+              "https://hoathinhai.bond/sitemap-blv.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/blv/dien-tinh-you-maniac-2026",
+      "inspected_at_utc": "2026-11-12T07:18:31.562Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=yjZAiPbLbAEPYa1rwJSLsw&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-03T15:46:43Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/blv/dien-tinh-you-maniac-2026",
+            "userCanonical": "https://hoathinhai.com/blv/dien-tinh-you-maniac-2026",
+            "referringUrls": [
+              "https://hoathinhai.bond/sitemap-blv.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              },
+              {
+                "richResultType": "Video",
+                "items": [
+                  {
+                    "name": "Điên Tình - You Maniac เดี๋ยวจะรักซะให้บ้า (2026) — Tập 1"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/blv/fukami-quyen-ru-la-thuong-unexpectedly",
+      "inspected_at_utc": "2026-11-12T07:18:31.525Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=SL39VDZE0Jgl-x9592XxXg&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-10-31T03:16:24Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/blv/fukami-quyen-ru-la-thuong-unexpectedly",
+            "userCanonical": "https://hoathinhai.com/blv/fukami-quyen-ru-la-thuong-unexpectedly",
+            "referringUrls": [
+              "https://hoathinhai.bond/sitemap-blv.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              },
+              {
+                "richResultType": "Video",
+                "items": [
+                  {
+                    "name": "Fukami Quyến Rũ Lạ Thường - Unexpectedly Naughty Fukami やたらやらしい深見くん (2026) — 01",
+                    "issues": [
+                      {
+                        "issueMessage": "Giá trị ngày giờ của \"uploadDate\" không hợp lệ",
+                        "severity": "WARNING"
+                      },
+                      {
+                        "issueMessage": "Thuộc tính ngày giờ \"uploadDate\" bị thiếu múi giờ",
+                        "severity": "WARNING"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/blv/gui-en-ngoi-sao-cua-anh-to-my-star-2021",
+      "inspected_at_utc": "2026-11-12T07:18:31.364Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=esNnxASDqsl9rh2V4ITIbQ&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-05T09:53:38Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/blv/gui-en-ngoi-sao-cua-anh-to-my-star-2021",
+            "userCanonical": "https://hoathinhai.com/blv/gui-en-ngoi-sao-cua-anh-to-my-star-2021",
+            "referringUrls": [
+              "https://hoathinhai.bond/sitemap-blv.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/blv/ho-thue-toi-tan-tinh-sat-thu-heart",
+      "inspected_at_utc": "2026-11-12T07:18:31.890Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=9POXrHmFlYfb4QXhsqoKOg&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-04T15:51:06Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/blv/ho-thue-toi-tan-tinh-sat-thu-heart",
+            "userCanonical": "https://hoathinhai.com/blv/ho-thue-toi-tan-tinh-sat-thu-heart",
+            "referringUrls": [
+              "https://hoathinhai.bond/sitemap-blv.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  },
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/blv/hon-vi-than-va-anh-la-cua-toi-i-kissed-a-god-and-he-became-mine-2026",
+      "inspected_at_utc": "2026-11-12T07:18:39.854Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=i3B5qP7V7RnUiJgrg2pTsg&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-03T16:06:04Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/blv/hon-vi-than-va-anh-la-cua-toi-i-kissed-a-god-and-he-became-mine-2026",
+            "userCanonical": "https://hoathinhai.com/blv/hon-vi-than-va-anh-la-cua-toi-i-kissed-a-god-and-he-became-mine-2026",
+            "referringUrls": [
+              "https://hoathinhai.bond/sitemap-blv.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/blv/ke-nam-quyen-orphan-came-back-king-2026",
+      "inspected_at_utc": "2026-11-12T07:18:39.996Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=GL9-PbOijL8VM-L3ded85Q&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-03T15:59:04Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/blv/ke-nam-quyen-orphan-came-back-king-2026",
+            "userCanonical": "https://hoathinhai.com/blv/ke-nam-quyen-orphan-came-back-king-2026",
+            "referringUrls": [
+              "https://hoathinhai.bond/sitemap-blv.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/blv/kiem-soat-toan-dien-eternal-butler-2024",
+      "inspected_at_utc": "2026-11-12T07:18:39.716Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=NOGiO46kvuVmG4lOeje89w&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-03T17:45:23Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/blv/kiem-soat-toan-dien-eternal-butler-2024",
+            "userCanonical": "https://hoathinhai.com/blv/kiem-soat-toan-dien-eternal-butler-2024",
+            "referringUrls": [
+              "https://hoathinhai.bond/sitemap-blv.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/blv/loi-logic-semantic-error-2022",
+      "inspected_at_utc": "2026-11-12T07:18:39.931Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=82LzUar-2FJkf1dcAWPMsg&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-03T08:51:10Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/blv/loi-logic-semantic-error-2022",
+            "userCanonical": "https://hoathinhai.com/blv/loi-logic-semantic-error-2022",
+            "referringUrls": [
+              "https://hoathinhai.bond/sitemap-blv.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              },
+              {
+                "richResultType": "Video",
+                "items": [
+                  {
+                    "name": "Lỗi Logic - Semantic Error (2022) — 01"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/blv/lua-chon-cua-thai-tu-phan-1-young",
+      "inspected_at_utc": "2026-11-12T07:18:48.478Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=LxCgdv6LgrCNMPsuxYoqpw&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-07T06:04:28Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/blv/lua-chon-cua-thai-tu-phan-1-young",
+            "userCanonical": "https://hoathinhai.com/blv/lua-chon-cua-thai-tu-phan-1-young",
+            "referringUrls": [
+              "https://hoathinhai.bond/blv/lua-chon-cua-thai-tu-phan-1-young",
+              "https://hoathinhai.bond/sitemap-blv.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/blv/mascarpone-maschile-singolare-2021",
+      "inspected_at_utc": "2026-11-12T07:18:47.965Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=iyyxLNPuKhFbXG5cx1JymQ&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-02T16:36:15Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/blv/mascarpone-maschile-singolare-2021",
+            "userCanonical": "https://hoathinhai.com/blv/mascarpone-maschile-singolare-2021",
+            "referringUrls": [
+              "https://hoathinhai.bond/blv/mascarpone-maschile-singolare-2021",
+              "https://hoathinhai.bond/sitemap-blv.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              },
+              {
+                "richResultType": "Video",
+                "items": [
+                  {
+                    "name": "Mascarpone - Maschile Singolare (2021) — 01 DL"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/blv/mong-ong-blurred-desire-2025",
+      "inspected_at_utc": "2026-11-12T07:18:47.853Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=E_mfDrkT-OBKHd0zkLhH8A&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "NEUTRAL",
+            "coverageState": "Đã thu thập dữ liệu – hiện chưa được lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-01T02:41:53Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/blv/mong-ong-blurred-desire-2025",
+            "userCanonical": "https://hoathinhai.com/blv/mong-ong-blurred-desire-2025",
+            "referringUrls": [
+              "https://hoathinhai.com/sitemap-blv.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/blv/nghich-tap-yeu-phai-tinh-ich-counter",
+      "inspected_at_utc": "2026-11-12T07:18:48.048Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=-rr2H82dNSQPSCmzXLvT8g&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-03T20:54:43Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/blv/nghich-tap-yeu-phai-tinh-ich-counter",
+            "userCanonical": "https://hoathinhai.com/blv/nghich-tap-yeu-phai-tinh-ich-counter",
+            "referringUrls": [
+              "https://hoathinhai.bond/sitemap-blv.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  },
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/blv/nico-va-levi-greys-anatomy-season-15",
+      "inspected_at_utc": "2026-11-12T07:18:56.618Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=S4orXuYY38TE0ImOrJHf8w&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-10-30T00:34:14Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/blv/nico-va-levi-greys-anatomy-season-15",
+            "userCanonical": "https://hoathinhai.com/blv/nico-va-levi-greys-anatomy-season-15",
+            "referringUrls": [
+              "https://hoathinhai.bond/sitemap-blv.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/blv/phai-long-chu-cao-boi-falling-for-my-cowboy-2026",
+      "inspected_at_utc": "2026-11-12T07:18:57.234Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=oQWD3HtaUEomeWWZdfn2vQ&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-10-29T16:44:49Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/blv/phai-long-chu-cao-boi-falling-for-my-cowboy-2026",
+            "userCanonical": "https://hoathinhai.com/blv/phai-long-chu-cao-boi-falling-for-my-cowboy-2026",
+            "referringUrls": [
+              "https://hoathinhai.bond/sitemap-blv.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/blv/punks-triangle-punkstriangle-2025",
+      "inspected_at_utc": "2026-11-12T07:18:56.667Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=z8XwRLxn-fr4v6qtD4b_1Q&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-01T03:33:51Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/blv/punks-triangle-punkstriangle-2025",
+            "userCanonical": "https://hoathinhai.com/blv/punks-triangle-punkstriangle-2025",
+            "referringUrls": [
+              "https://hoathinhai.com/sitemap-blv.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              },
+              {
+                "richResultType": "Video",
+                "items": [
+                  {
+                    "name": "Punks Triangle - PUNKS△TRIANGLE (2025) — 01"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/blv/sac-mau-tinh-yeu-color-rush-2020",
+      "inspected_at_utc": "2026-11-12T07:18:56.654Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=jgej4iH_Eyp4DbhwwGUkhA&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-03T15:51:47Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/blv/sac-mau-tinh-yeu-color-rush-2020",
+            "userCanonical": "https://hoathinhai.com/blv/sac-mau-tinh-yeu-color-rush-2020",
+            "referringUrls": [
+              "https://hoathinhai.bond/sitemap-blv.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  },
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

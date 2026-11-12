@@ -1,0 +1,93 @@
+[
+  {
+    "url": "https://hoathinhai.com/phim/hoang-hau-bi-phe-nuoi-cap-song-sinh-trong-lanh-cung-hoang-de-muon-cuop-con-nang-nzddic",
+    "inspected_at_utc": "2026-11-12T07:20:57.419Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=1WOy-StMfqtdmLQsWCW4ow&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "NEUTRAL",
+          "coverageState": "Đã phát hiện thấy – hiện chưa được lập chỉ mục",
+          "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+          "indexingState": "INDEXING_STATE_UNSPECIFIED",
+          "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+          "sitemap": [
+            "https://hoathinhai.com/sitemap-phim.xml",
+            "https://hoathinhai.com/sitemap.xml"
+          ],
+          "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/phim/bi-ban-gai-cam-sung-tai-xe-cong-nghe-bong-thuc-tinh-di-nang-nhin-ra-gia-tri-do-m4mjvy",
+    "inspected_at_utc": "2026-11-12T07:20:57.419Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=HQaOmWu31nVMJClRxrHGsA&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "NEUTRAL",
+          "coverageState": "Đã phát hiện thấy – hiện chưa được lập chỉ mục",
+          "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+          "indexingState": "INDEXING_STATE_UNSPECIFIED",
+          "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+          "sitemap": [
+            "https://hoathinhai.com/sitemap-phim.xml",
+            "https://hoathinhai.com/sitemap.xml"
+          ],
+          "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/phim/anime-review-trong-sinh-tra-thu-kiep-chong-bac-beo-cuc-hay-pipfr1",
+    "inspected_at_utc": "2026-11-12T07:20:57.419Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=JZPhJO2bxYy6_BPsYFyg4Q&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "NEUTRAL",
+          "coverageState": "Đã phát hiện thấy – hiện chưa được lập chỉ mục",
+          "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+          "indexingState": "INDEXING_STATE_UNSPECIFIED",
+          "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED",
+          "sitemap": [
+            "https://hoathinhai.com/sitemap-phim.xml",
+            "https://hoathinhai.com/sitemap.xml"
+          ],
+          "crawledAs": "CRAWLING_USER_AGENT_UNSPECIFIED"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/phim/9-gio-thoa-man-xuyen-lam-an-may-nao-ngo-thanh-vo-dich-hoc-moi-bi-kip-vo-cong-3nlwrw",
+    "inspected_at_utc": "2026-11-12T07:20:57.419Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=Plu0B_rDBZgE_S8Ye4p1hA&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "NEUTRAL",
+          "coverageState": "Google không xác định được URL",
+          "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+          "indexingState": "INDEXING_STATE_UNSPECIFIED",
+          "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        }
+      }
+    }
+  }
+]

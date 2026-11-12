@@ -1,0 +1,751 @@
+[
+  {
+    "url": "https://hoathinhai.com/phim-tong-hop/tony",
+    "inspected_at_utc": "2026-11-12T07:19:18.033Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=SgV5Opo4d4O5lM_aVK8oCA&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "PASS",
+          "coverageState": "Đã được gửi và lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-01T14:43:01Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/phim-tong-hop/tony",
+          "userCanonical": "https://hoathinhai.com/phim-tong-hop/tony",
+          "referringUrls": [
+            "https://hoathinhai.com/sitemap-tong-hop.xml?page=26"
+          ],
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        },
+        "richResultsResult": {
+          "verdict": "PASS",
+          "detectedItems": [
+            {
+              "richResultType": "Đường dẫn",
+              "items": [
+                {
+                  "name": "Mục chưa có tên"
+                }
+              ]
+            },
+            {
+              "richResultType": "Video",
+              "items": [
+                {
+                  "name": "Tony — Full"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/phim-tong-hop/tuong-da-3d",
+    "inspected_at_utc": "2026-11-12T07:19:17.976Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=-mBKxsZvBEa0mips1Q-Ndw&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "PASS",
+          "coverageState": "Đã được gửi và lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-03T11:56:43Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/phim-tong-hop/tuong-da-3d",
+          "userCanonical": "https://hoathinhai.com/phim-tong-hop/tuong-da-3d",
+          "referringUrls": [
+            "https://hoathinhai.com/sitemap-tong-hop.xml?page=49"
+          ],
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        },
+        "richResultsResult": {
+          "verdict": "PASS",
+          "detectedItems": [
+            {
+              "richResultType": "Đường dẫn",
+              "items": [
+                {
+                  "name": "Mục chưa có tên"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/phim-tong-hop/wardriver",
+    "inspected_at_utc": "2026-11-12T07:19:17.988Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=dZLFoUxXX7ZDEGpgiwX1Nw&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "PASS",
+          "coverageState": "Đã được gửi và lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-02T02:53:39Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/phim-tong-hop/wardriver",
+          "userCanonical": "https://hoathinhai.com/phim-tong-hop/wardriver",
+          "referringUrls": [
+            "https://hoathinhai.com/sitemap-tong-hop.xml?page=165"
+          ],
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        },
+        "richResultsResult": {
+          "verdict": "PASS",
+          "detectedItems": [
+            {
+              "richResultType": "Đường dẫn",
+              "items": [
+                {
+                  "name": "Mục chưa có tên"
+                }
+              ]
+            },
+            {
+              "richResultType": "Video",
+              "items": [
+                {
+                  "name": "Wardriver — Full"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/phim-tong-hop/zenshu",
+    "inspected_at_utc": "2026-11-12T07:19:17.926Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=bml3CP0Og76AvXOjGnBxvg&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "PASS",
+          "coverageState": "Đã được gửi và lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-02T02:12:31Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/phim-tong-hop/zenshu",
+          "userCanonical": "https://hoathinhai.com/phim-tong-hop/zenshu",
+          "referringUrls": [
+            "https://hoathinhai.com/sitemap-tong-hop.xml?page=45"
+          ],
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        },
+        "richResultsResult": {
+          "verdict": "PASS",
+          "detectedItems": [
+            {
+              "richResultType": "Đường dẫn",
+              "items": [
+                {
+                  "name": "Mục chưa có tên"
+                }
+              ]
+            },
+            {
+              "richResultType": "Video",
+              "items": [
+                {
+                  "name": "Zenshu — Tập 01"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/ntt/ntt-series-thien-dao-du-do-pham-nhan-tu-tien-di-luc",
+    "inspected_at_utc": "2026-11-12T07:19:18.545Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=gcZlauW-A7uitnCWHg8fXQ&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "NEUTRAL",
+          "coverageState": "Google không xác định được URL",
+          "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+          "indexingState": "INDEXING_STATE_UNSPECIFIED",
+          "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/ntt/ntt-series-pham-nhan-tu-tien-di-luc",
+    "inspected_at_utc": "2026-11-12T07:19:17.960Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=0Z9UTurRiaiWNQTL1buFnA&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "NEUTRAL",
+          "coverageState": "Đã thu thập dữ liệu – hiện chưa được lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-03T13:53:51Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/ntt/ntt-series-pham-nhan-tu-tien-di-luc",
+          "userCanonical": "https://hoathinhai.com/ntt/ntt-series-pham-nhan-tu-tien-di-luc",
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/ntt/ntt-series-van-co-vo-song-ta-quet-ngang-3000-dai-de",
+    "inspected_at_utc": "2026-11-12T07:19:17.976Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=20PSJfiXOUIGiCmgQTpkog&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "NEUTRAL",
+          "coverageState": "Đã thu thập dữ liệu – hiện chưa được lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-07T13:28:24Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/ntt/ntt-series-van-co-vo-song-ta-quet-ngang-3000-dai-de",
+          "userCanonical": "https://hoathinhai.com/ntt/ntt-series-van-co-vo-song-ta-quet-ngang-3000-dai-de",
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/ntt/ntt-series-tap-dich-tang-thu-cac-van-dinh-tien-de-dao",
+    "inspected_at_utc": "2026-11-12T07:19:17.983Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=16bR1tcxf74t61lzP9b8Vw&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "PASS",
+          "coverageState": "Đã được gửi và lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-05T11:37:51Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/ntt/ntt-series-tap-dich-tang-thu-cac-van-dinh-tien-de-dao",
+          "userCanonical": "https://hoathinhai.com/ntt/ntt-series-tap-dich-tang-thu-cac-van-dinh-tien-de-dao",
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        },
+        "richResultsResult": {
+          "verdict": "PASS",
+          "detectedItems": [
+            {
+              "richResultType": "Đường dẫn",
+              "items": [
+                {
+                  "name": "Mục chưa có tên"
+                }
+              ]
+            },
+            {
+              "richResultType": "Video",
+              "items": [
+                {
+                  "name": "TẠP DỊCH TÀNG THƯ CÁC: VẤN ĐỈNH TIÊN ĐẾ ĐẠO"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/ntt/ntt-series-thien-dao-sup-do-pham-nhan-du-tien-tu-tien-di-luc",
+    "inspected_at_utc": "2026-11-12T07:19:26.347Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=70fuzT6Ad1HYCEx_uk50sQ&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "NEUTRAL",
+          "coverageState": "Đã thu thập dữ liệu – hiện chưa được lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-11T06:56:26Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/ntt/ntt-series-thien-dao-sup-do-pham-nhan-du-tien-tu-tien-di-luc",
+          "userCanonical": "https://hoathinhai.com/ntt/ntt-series-thien-dao-sup-do-pham-nhan-du-tien-tu-tien-di-luc",
+          "sitemap": [
+            "https://hoathinhai.com/sitemap-ntt.xml",
+            "https://hoathinhai.com/sitemap.xml"
+          ],
+          "referringUrls": [
+            "https://hoathinhai.com/sitemap-ntt.xml"
+          ],
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/ntt/ntt-series-chu-than-ky-nguyen-giang-lam",
+    "inspected_at_utc": "2026-11-12T07:19:26.509Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=xLDSgd7mmc8mgWJ81np5uA&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "NEUTRAL",
+          "coverageState": "Đã thu thập dữ liệu – hiện chưa được lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-05T11:33:25Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/ntt/ntt-series-chu-than-ky-nguyen-giang-lam",
+          "userCanonical": "https://hoathinhai.com/ntt/ntt-series-chu-than-ky-nguyen-giang-lam",
+          "referringUrls": [
+            "https://hoathinhai.com/sitemap-ntt.xml"
+          ],
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/ntt/ntt-series-tien-vo-de-ton",
+    "inspected_at_utc": "2026-11-12T07:19:26.424Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=Fe0W5BXCUFrhorzq_Cm3MA&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "PASS",
+          "coverageState": "Đã được gửi và lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-03T08:43:04Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/ntt/ntt-series-tien-vo-de-ton",
+          "userCanonical": "https://hoathinhai.com/ntt/ntt-series-tien-vo-de-ton",
+          "sitemap": [
+            "https://hoathinhai.com/sitemap-ntt.xml",
+            "https://hoathinhai.com/sitemap.xml"
+          ],
+          "referringUrls": [
+            "https://hoathinhai.com/sitemap-ntt.xml"
+          ],
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/ntt/ntt-series-tham-hoa-tu-linh-su",
+    "inspected_at_utc": "2026-11-12T07:19:26.448Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=F85bJybGCrrjw4HErt-5Sw&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "NEUTRAL",
+          "coverageState": "Đã thu thập dữ liệu – hiện chưa được lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-03T14:10:07Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/ntt/ntt-series-tham-hoa-tu-linh-su",
+          "userCanonical": "https://hoathinhai.com/ntt/ntt-series-tham-hoa-tu-linh-su",
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/ntt/ntt-series-ky-nguyen-ky-la-toan-cau-quy-di-thoi-dai",
+    "inspected_at_utc": "2026-11-12T07:19:26.439Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=LCJQoMNP2u4I4PejrIQ4iA&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "NEUTRAL",
+          "coverageState": "Đã thu thập dữ liệu – hiện chưa được lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-03T13:49:33Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/ntt/ntt-series-ky-nguyen-ky-la-toan-cau-quy-di-thoi-dai",
+          "userCanonical": "https://hoathinhai.com/ntt/ntt-series-ky-nguyen-ky-la-toan-cau-quy-di-thoi-dai",
+          "sitemap": [
+            "https://hoathinhai.com/sitemap-ntt.xml",
+            "https://hoathinhai.com/sitemap.xml"
+          ],
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/ntt/ntt-series-sinh-ton-hoang-dao-4m",
+    "inspected_at_utc": "2026-11-12T07:19:27.665Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=X8U7hunOmDQaHukXH5DLdw&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "NEUTRAL",
+          "coverageState": "Đã thu thập dữ liệu – hiện chưa được lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-09T23:26:27Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/ntt/ntt-series-sinh-ton-hoang-dao-4m",
+          "userCanonical": "https://hoathinhai.com/ntt/ntt-series-sinh-ton-hoang-dao-4m",
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/ntt/ntt-series-vua-mo-man-duoc-tang-100-trieu-mang-song",
+    "inspected_at_utc": "2026-11-12T07:19:26.682Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=sXPKlPwj4ivSaG0b8ljnuw&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "NEUTRAL",
+          "coverageState": "Đã thu thập dữ liệu – hiện chưa được lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-03T13:57:01Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/ntt/ntt-series-vua-mo-man-duoc-tang-100-trieu-mang-song",
+          "userCanonical": "https://hoathinhai.com/ntt/ntt-series-vua-mo-man-duoc-tang-100-trieu-mang-song",
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/ntt/ntt-series-truyen-nhan-tien-nhan-xuong-nui-doi-no-9-gia-toc-lon",
+    "inspected_at_utc": "2026-11-12T07:19:26.510Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=op6q3qPCA6yxp-FtyA7gAw&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "PASS",
+          "coverageState": "Đã được gửi và lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-03T13:51:21Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/ntt/ntt-series-truyen-nhan-tien-nhan-xuong-nui-doi-no-9-gia-toc-lon",
+          "userCanonical": "https://hoathinhai.com/ntt/ntt-series-truyen-nhan-tien-nhan-xuong-nui-doi-no-9-gia-toc-lon",
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        },
+        "richResultsResult": {
+          "verdict": "PASS",
+          "detectedItems": [
+            {
+              "richResultType": "Đường dẫn",
+              "items": [
+                {
+                  "name": "Mục chưa có tên"
+                }
+              ]
+            },
+            {
+              "richResultType": "Video",
+              "items": [
+                {
+                  "name": "🔥 Truyền Nhân Tiên Nhân Xuống Núi Đòi Nợ 9 Gia Tộc Lớn!"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/ntt/ntt-series-tro-choi-co-than-tap-1-14",
+    "inspected_at_utc": "2026-11-12T07:19:35.611Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=go6ZQnAwfPdCRxDzLDW_fg&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "NEUTRAL",
+          "coverageState": "Đã thu thập dữ liệu – hiện chưa được lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-03T16:27:35Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/ntt/ntt-series-tro-choi-co-than-tap-1-14",
+          "userCanonical": "https://hoathinhai.com/ntt/ntt-series-tro-choi-co-than-tap-1-14",
+          "sitemap": [
+            "https://hoathinhai.com/sitemap-ntt.xml",
+            "https://hoathinhai.com/sitemap.xml"
+          ],
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/ntt/ntt-series-toi-tro-nen-bat-kha-chien-bai-sau-khi-co-duoc-than-mach-ban-",
+    "inspected_at_utc": "2026-11-12T07:19:36.236Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=gPki9GoQm9ggvtNXMU97iw&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "NEUTRAL",
+          "coverageState": "Đã thu thập dữ liệu – hiện chưa được lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-03T07:28:58Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/ntt/ntt-series-toi-tro-nen-bat-kha-chien-bai-sau-khi-co-duoc-than-mach-ban-",
+          "userCanonical": "https://hoathinhai.com/ntt/ntt-series-toi-tro-nen-bat-kha-chien-bai-sau-khi-co-duoc-than-mach-ban-",
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/ntt/ntt-series-tai-khoan-phu-nay-co-doc-tap-1-71",
+    "inspected_at_utc": "2026-11-12T07:19:35.618Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=THJTZCzJLF3bX6tPsWFcYQ&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "PASS",
+          "coverageState": "Đã được gửi và lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-03T13:56:53Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/ntt/ntt-series-tai-khoan-phu-nay-co-doc-tap-1-71",
+          "userCanonical": "https://hoathinhai.com/ntt/ntt-series-tai-khoan-phu-nay-co-doc-tap-1-71",
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/ntt/ntt-series-ta-o-nha-100-nam-khi-ra-ngoai-da-vo-dich",
+    "inspected_at_utc": "2026-11-12T07:19:35.498Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=LQHPOdg1uS57BKSh4hzOYQ&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "NEUTRAL",
+          "coverageState": "Đã thu thập dữ liệu – hiện chưa được lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-03T14:03:11Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/ntt/ntt-series-ta-o-nha-100-nam-khi-ra-ngoai-da-vo-dich",
+          "userCanonical": "https://hoathinhai.com/ntt/ntt-series-ta-o-nha-100-nam-khi-ra-ngoai-da-vo-dich",
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/ntt/ntt-series-su-phu-ta-luon-dot-pha-moi-khi-bi-an-hanh",
+    "inspected_at_utc": "2026-11-12T07:19:35.775Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=z8EPtlFNfUFjzONzSBlSJg&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "PASS",
+          "coverageState": "Đã được gửi và lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-04T00:39:44Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/ntt/ntt-series-su-phu-ta-luon-dot-pha-moi-khi-bi-an-hanh",
+          "userCanonical": "https://hoathinhai.com/ntt/ntt-series-su-phu-ta-luon-dot-pha-moi-khi-bi-an-hanh",
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        },
+        "richResultsResult": {
+          "verdict": "PASS",
+          "detectedItems": [
+            {
+              "richResultType": "Đường dẫn",
+              "items": [
+                {
+                  "name": "Mục chưa có tên"
+                }
+              ]
+            },
+            {
+              "richResultType": "Video",
+              "items": [
+                {
+                  "name": "Sư phụ ta luôn đột phá… mỗi khi bị ăn hành 😭"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/ntt/ntt-series-nhan-gian-nhu-dia-nguc-ac-ma-giang-lam",
+    "inspected_at_utc": "2026-11-12T07:19:35.755Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=3KduuoWZrPpP30tSVThifQ&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "NEUTRAL",
+          "coverageState": "Đã thu thập dữ liệu – hiện chưa được lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-03T14:06:16Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/ntt/ntt-series-nhan-gian-nhu-dia-nguc-ac-ma-giang-lam",
+          "userCanonical": "https://hoathinhai.com/ntt/ntt-series-nhan-gian-nhu-dia-nguc-ac-ma-giang-lam",
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/ntt/ntt-series-moi-tuan-mot-than-phan-moi-tap-1-100",
+    "inspected_at_utc": "2026-11-12T07:19:35.543Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=bYVnkJwklC6U7wUoAPEcWg&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "NEUTRAL",
+          "coverageState": "Đã thu thập dữ liệu – hiện chưa được lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-03T13:51:55Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/ntt/ntt-series-moi-tuan-mot-than-phan-moi-tap-1-100",
+          "userCanonical": "https://hoathinhai.com/ntt/ntt-series-moi-tuan-mot-than-phan-moi-tap-1-100",
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        }
+      }
+    }
+  },
+  {
+    "url": "https://hoathinhai.com/ntt/ntt-series-khong-gia-vo-nua-toi-con-manh-hon-ca-anh-hung",
+    "inspected_at_utc": "2026-11-12T07:19:35.842Z",
+    "response": {
+      "inspection_result": {
+        "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=ssK2wXGdR5yppP7Z6YOzug&utm_medium=link&utm_source=api",
+        "indexStatusResult": {
+          "verdict": "PASS",
+          "coverageState": "Đã được gửi và lập chỉ mục",
+          "robotsTxtState": "ALLOWED",
+          "indexingState": "INDEXING_ALLOWED",
+          "lastCrawlTime": "2026-11-03T08:43:13Z",
+          "pageFetchState": "SUCCESSFUL",
+          "googleCanonical": "https://hoathinhai.com/ntt/ntt-series-khong-gia-vo-nua-toi-con-manh-hon-ca-anh-hung",
+          "userCanonical": "https://hoathinhai.com/ntt/ntt-series-khong-gia-vo-nua-toi-con-manh-hon-ca-anh-hung",
+          "referringUrls": [
+            "https://hoathinhai.com/sitemap-ntt.xml"
+          ],
+          "crawledAs": "MOBILE"
+        },
+        "mobileUsabilityResult": {
+          "verdict": "VERDICT_UNSPECIFIED"
+        },
+        "richResultsResult": {
+          "verdict": "PASS",
+          "detectedItems": [
+            {
+              "richResultType": "Đường dẫn",
+              "items": [
+                {
+                  "name": "Mục chưa có tên"
+                }
+              ]
+            },
+            {
+              "richResultType": "Video",
+              "items": [
+                {
+                  "name": "Không Giả Vờ Nữa, Tôi Còn Mạnh Hơn Cả Anh Hùng!"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+]
+

@@ -1,0 +1,771 @@
+{
+  "property": "sc-domain:hoathinhai.com",
+  "shard": 0,
+  "records": [
+    {
+      "url": "https://hoathinhai.com/",
+      "inspected_at_utc": "2026-11-12T07:10:23.269Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=ZOXDDAydMqUyjNQ2UYVe5A&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-12T05:48:05Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/",
+            "userCanonical": "https://hoathinhai.com/",
+            "referringUrls": [
+              "https://hoathinhai.com/phim-tong-hop/vong-toi-loi-vong-lap-dinh-menh",
+              "https://hoathinhai.com/blv/tu-khi-toi-lam-gia-su-cho-ke-thu",
+              "https://hoathinhai.com/blv/cuoc-canh-tranh-cua-sonny-sonnys"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/the-loai/phim-hoat-hinh-trung-quoc",
+      "inspected_at_utc": "2026-11-12T07:10:22.297Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=41mot9FMcU0B6-f55XGeew&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "NEUTRAL",
+            "coverageState": "Đã thu thập dữ liệu – hiện chưa được lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-10-29T05:54:21Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/the-loai/phim-hoat-hinh-trung-quoc",
+            "userCanonical": "https://hoathinhai.com/the-loai/phim-hoat-hinh-trung-quoc",
+            "referringUrls": [
+              "https://hoathinhai.com/",
+              "https://hoathinhai.com/blv/bau-troi-cua-toi-youre-my-sky-2022",
+              "https://hoathinhai.com/blv/cai-ten-khac-sau-trong-tim-nguoi-your"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/the-loai/trong-sinh",
+      "inspected_at_utc": "2026-11-12T07:10:22.477Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=rf91PB5vc2jKiylS_rz01A&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "NEUTRAL",
+            "coverageState": "Đã thu thập dữ liệu – hiện chưa được lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-05T00:43:53Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/the-loai/trong-sinh",
+            "userCanonical": "https://hoathinhai.com/the-loai/trong-sinh",
+            "referringUrls": [
+              "https://hoathinhai.com/phim/ke-dien-mang-he-thong-cuu-the-gioi-bang-dep-lao-8a980o",
+              "https://hoathinhai.com/blv/tinh-yeu-khong-ngon-ngu-2023",
+              "https://hoathinhai.com/blv/cai-ten-khac-sau-trong-tim-nguoi-your"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/the-loai/nam-chinh",
+      "inspected_at_utc": "2026-11-12T07:10:23.029Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=XXOGCGXPd3pm4DmOJuzHtA&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-06T06:21:55Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/the-loai/nam-chinh",
+            "userCanonical": "https://hoathinhai.com/the-loai/nam-chinh",
+            "sitemap": [
+              "https://hoathinhai.com/sitemap-trang.xml",
+              "https://hoathinhai.com/sitemap.xml"
+            ],
+            "referringUrls": [
+              "https://hoathinhai.com/the-loai/hien-dai",
+              "https://hoathinhai.com/blv/cai-ten-khac-sau-trong-tim-nguoi-your",
+              "https://hoathinhai.com/blv/aki-muon-cung-haru-aki-wa-haru-to-gohan"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/the-loai/main-co-nao",
+      "inspected_at_utc": "2026-11-12T07:11:49.784Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=l6EwRvPUavrmbWa6Gu5PfQ&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "NEUTRAL",
+            "coverageState": "Đã thu thập dữ liệu – hiện chưa được lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-09T10:28:25Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/the-loai/main-co-nao",
+            "userCanonical": "https://hoathinhai.com/the-loai/main-co-nao",
+            "sitemap": [
+              "https://hoathinhai.com/sitemap-trang.xml",
+              "https://hoathinhai.com/sitemap.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/boy-love/nhat-ban",
+      "inspected_at_utc": "2026-11-12T07:11:49.803Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=HA1avezjd00rRc0EelfCwA&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "NEUTRAL",
+            "coverageState": "Google không xác định được URL",
+            "robotsTxtState": "ROBOTS_TXT_STATE_UNSPECIFIED",
+            "indexingState": "INDEXING_STATE_UNSPECIFIED",
+            "pageFetchState": "PAGE_FETCH_STATE_UNSPECIFIED"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/boy-love/hai-huoc",
+      "inspected_at_utc": "2026-11-12T07:11:49.853Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=9UeP8Z36JmHepcR2hsI1Dg&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-09T10:28:24Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/boy-love/hai-huoc",
+            "userCanonical": "https://hoathinhai.com/boy-love/hai-huoc",
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/dieu-khoan-su-dung",
+      "inspected_at_utc": "2026-11-12T07:11:50.081Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=wQ1pB89R36nDQuaULbs6QQ&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "NEUTRAL",
+            "coverageState": "Bị loại trừ bởi thẻ 'noindex'",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "BLOCKED_BY_META_TAG",
+            "lastCrawlTime": "2026-10-29T18:01:18Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/dieu-khoan-su-dung",
+            "userCanonical": "https://hoathinhai.com/dieu-khoan-su-dung",
+            "referringUrls": [
+              "https://hoathinhai.com/blv/vi-ky-egoist-2023",
+              "https://hoathinhai.com/"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/phim/tro-tan-cuu-chau-ta-xuyen-khong-ve-co-dai-dung-kien-thuc-hien-dai-xoay-chuyen-2f5ixd",
+      "inspected_at_utc": "2026-11-12T07:11:57.854Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=v0-Btf6Xl0JTiU6i-K3CBA&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-07T20:12:13Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/phim/tro-tan-cuu-chau-ta-xuyen-khong-ve-co-dai-dung-kien-thuc-hien-dai-xoay-chuyen-2f5ixd",
+            "userCanonical": "https://hoathinhai.com/phim/tro-tan-cuu-chau-ta-xuyen-khong-ve-co-dai-dung-kien-thuc-hien-dai-xoay-chuyen-2f5ixd",
+            "referringUrls": [
+              "https://hoathinhai.com/the-loai/va-mat",
+              "https://hoathinhai.com/phim/mat-the-nam-khong-cung-thang-anh-ket-nghia-voi-4-thi-vuong-than-phan-noi-gian-giesfz",
+              "https://hoathinhai.com/the-loai/hien-dai"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              },
+              {
+                "richResultType": "Video",
+                "items": [
+                  {
+                    "name": "Tro Tàn Cửu Châu: Ta Xuyên Không Về Cổ Đại Dùng Kiến Thức Hiện Đại Xoay Chuyển Càn Khôn — Tập 1"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/blv/tinh-yeu-thuc-giac-noi-thao-nguyen",
+      "inspected_at_utc": "2026-11-12T07:11:58.088Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=EiPflul5USPBvG0Eu_m-rA&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-05T09:33:38Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/blv/tinh-yeu-thuc-giac-noi-thao-nguyen",
+            "userCanonical": "https://hoathinhai.com/blv/tinh-yeu-thuc-giac-noi-thao-nguyen",
+            "sitemap": [
+              "https://hoathinhai.com/sitemap-blv.xml",
+              "https://hoathinhai.com/sitemap.xml"
+            ],
+            "referringUrls": [
+              "https://hoathinhai.bond/sitemap-blv.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  },
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/blv/quy-tac-thuan-duong-tamed-2026",
+      "inspected_at_utc": "2026-11-12T07:11:58.012Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=BfVQuA1xTFKmodSdioxUqQ&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-10T21:46:48Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/blv/quy-tac-thuan-duong-tamed-2026",
+            "userCanonical": "https://hoathinhai.com/blv/quy-tac-thuan-duong-tamed-2026",
+            "referringUrls": [
+              "https://hoathinhai.com/sitemap-blv.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              },
+              {
+                "richResultType": "Video",
+                "items": [
+                  {
+                    "name": "Quy Tắc Thuần Dưỡng - Tamed 驯养守则 (2026) — Tập 1"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/blv/san-sang-yeu-em-jun-and-jun-2023",
+      "inspected_at_utc": "2026-11-12T07:11:58.097Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=mzgaawf0unomtzPhGUOi0A&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-03T23:47:29Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/blv/san-sang-yeu-em-jun-and-jun-2023",
+            "userCanonical": "https://hoathinhai.com/blv/san-sang-yeu-em-jun-and-jun-2023",
+            "referringUrls": [
+              "https://hoathinhai.bond/sitemap-blv.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              },
+              {
+                "richResultType": "Video",
+                "items": [
+                  {
+                    "name": "Sẵn Sàng Yêu Em - Jun and Jun (2023) — 01"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/blv/hanh-trinh-thu-tieu-anh-mua-2-the-journey-to-killing-you-season-2-2026",
+      "inspected_at_utc": "2026-11-12T07:12:06.610Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=puL1C9An9EZGy7_6Vb7YAw&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-05T00:25:23Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/blv/hanh-trinh-thu-tieu-anh-mua-2-the-journey-to-killing-you-season-2-2026",
+            "userCanonical": "https://hoathinhai.com/blv/hanh-trinh-thu-tieu-anh-mua-2-the-journey-to-killing-you-season-2-2026",
+            "referringUrls": [
+              "https://hoathinhai.bond/blv/hanh-trinh-thu-tieu-anh-mua-2-the-journey-to-killing-you-season-2-2026",
+              "https://hoathinhai.bond/sitemap-blv.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              },
+              {
+                "richResultType": "Video",
+                "items": [
+                  {
+                    "name": "Hành Trình Thủ Tiêu Anh Mùa 2 - The Journey to Killing You Season 2 あなたを殺す旅 シーズン２ (2026) — Tập 1"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/blv/giam-cam-trong-ngot-ngao-dangerous-sweet-2026",
+      "inspected_at_utc": "2026-11-12T07:12:06.042Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=mGGqMSTnVoJAKU6A74sd0A&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-06T09:22:30Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/blv/giam-cam-trong-ngot-ngao-dangerous-sweet-2026",
+            "userCanonical": "https://hoathinhai.com/blv/giam-cam-trong-ngot-ngao-dangerous-sweet-2026",
+            "referringUrls": [
+              "https://hoathinhai.bond/sitemap-blv.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  },
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/blv/huong-vi-lan-hai-second-plate-2026",
+      "inspected_at_utc": "2026-11-12T07:12:06.212Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=DLs56IPfQ0R2AYX9P7j5pA&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-06T02:14:38Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/blv/huong-vi-lan-hai-second-plate-2026",
+            "userCanonical": "https://hoathinhai.com/blv/huong-vi-lan-hai-second-plate-2026",
+            "referringUrls": [
+              "https://hoathinhai.com/sitemap-blv.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  },
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/blv/365-ngay-e-em-thuoc-ve-anh-365-days-to",
+      "inspected_at_utc": "2026-11-12T07:12:06.507Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=2vnQ1Z9O1e0GgY2FuykdDA&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-10T22:49:12Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/blv/365-ngay-e-em-thuoc-ve-anh-365-days-to",
+            "userCanonical": "https://hoathinhai.com/blv/365-ngay-e-em-thuoc-ve-anh-365-days-to",
+            "referringUrls": [
+              "https://hoathinhai.com/sitemap-blv.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  },
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/ntt/ntt-series-he-thong-hoan-tra-van-lan",
+      "inspected_at_utc": "2026-11-12T07:12:14.841Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=M43JmTsOslvD3fuUPfsEAA&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-03T14:03:58Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/ntt/ntt-series-he-thong-hoan-tra-van-lan",
+            "userCanonical": "https://hoathinhai.com/ntt/ntt-series-he-thong-hoan-tra-van-lan",
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              },
+              {
+                "richResultType": "Video",
+                "items": [
+                  {
+                    "name": "Hệ Thống Hoàn Trả Vạn Lần"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/blv/nghien-ghet-tinh-yeu-cam-doan-addicted-to-hate-2026",
+      "inspected_at_utc": "2026-11-12T07:12:14.475Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=gbRGQmoBnnmGA1SZGS5i5w&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-10-28T12:46:30Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/blv/nghien-ghet-tinh-yeu-cam-doan-addicted-to-hate-2026",
+            "userCanonical": "https://hoathinhai.com/blv/nghien-ghet-tinh-yeu-cam-doan-addicted-to-hate-2026",
+            "referringUrls": [
+              "https://hoathinhai.bond/sitemap-blv.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/blv/mai-mai-ngay-hom-qua-eternal-yesterday",
+      "inspected_at_utc": "2026-11-12T07:12:14.568Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=Lg5U09Qi5Wzfvuh77WFx8Q&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-03T08:46:11Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/blv/mai-mai-ngay-hom-qua-eternal-yesterday",
+            "userCanonical": "https://hoathinhai.com/blv/mai-mai-ngay-hom-qua-eternal-yesterday",
+            "referringUrls": [
+              "https://hoathinhai.bond/sitemap-blv.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "url": "https://hoathinhai.com/blv/xau-xa-lam-nha-tinh-yeu-cua-mafia",
+      "inspected_at_utc": "2026-11-12T07:12:14.728Z",
+      "response": {
+        "inspection_result": {
+          "inspectionResultLink": "https://search.google.com/search-console/inspect?resource_id=sc-domain:hoathinhai.com&id=NMGLTjhM7ltQXSnq8F15Gg&utm_medium=link&utm_source=api",
+          "indexStatusResult": {
+            "verdict": "PASS",
+            "coverageState": "Đã được gửi và lập chỉ mục",
+            "robotsTxtState": "ALLOWED",
+            "indexingState": "INDEXING_ALLOWED",
+            "lastCrawlTime": "2026-11-06T05:38:02Z",
+            "pageFetchState": "SUCCESSFUL",
+            "googleCanonical": "https://hoathinhai.com/blv/xau-xa-lam-nha-tinh-yeu-cua-mafia",
+            "userCanonical": "https://hoathinhai.com/blv/xau-xa-lam-nha-tinh-yeu-cua-mafia",
+            "referringUrls": [
+              "https://hoathinhai.bond/sitemap-blv.xml"
+            ],
+            "crawledAs": "MOBILE"
+          },
+          "mobileUsabilityResult": {
+            "verdict": "VERDICT_UNSPECIFIED"
+          },
+          "richResultsResult": {
+            "verdict": "PASS",
+            "detectedItems": [
+              {
+                "richResultType": "Đường dẫn",
+                "items": [
+                  {
+                    "name": "Mục chưa có tên"
+                  },
+                  {
+                    "name": "Mục chưa có tên"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
